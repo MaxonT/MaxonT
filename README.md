@@ -1,10 +1,9 @@
-<p align="center"><img src="assets/banner.svg" alt="Tiger Yang, MaxonT" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="The Archer" width="100%"></p>
 
 <div align="center">
 
-<a href="https://github.com/MaxonT/MyProfile"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Tiger+(MaxonT);CS+student+%40+Vanderbilt+University;I+build+small+AI+tools+that+people+actually+use;Study+tools+%7C+prompt+tools+%7C+agent+traces;First-gen%2C+curious%2C+shipping+every+week" alt="Typing intro"></a>
+<a href="https://github.com/MaxonT/MyProfile"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=The+Archer;Aim+small%2C+ship+often;Agent+traces+%7C+AI+tools+%7C+open+formats" alt="Typing intro"></a>
 
-![Vanderbilt](https://img.shields.io/badge/Vanderbilt-Computer%20Science-866D4B?style=for-the-badge&logo=academia&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-AI%20Tools-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Building-22C55E?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Recent%20projects-5-blueviolet?style=for-the-badge)
@@ -12,19 +11,11 @@
 ![Followers](https://img.shields.io/github/followers/MaxonT?style=for-the-badge&logo=github&color=0EA5E9)
 ![Views](https://komarev.com/ghpvc/?username=MaxonT&style=for-the-badge&color=F472B6&label=PROFILE+VIEWS)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ming%20Yang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ming-yang-14270837a)
-[![Email](https://img.shields.io/badge/Email-Vanderbilt-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ming.t.yang@vanderbilt.edu)
 [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-README-F59E0B?style=for-the-badge)](README.zh-CN.md)
 
 <img src="assets/divider.svg" width="100%" alt="">
 
 </div>
-
-## 👋 About me
-
-My name is Tiger Yang, a Computer Science student at Vanderbilt University. I like turning a messy everyday problem into a small tool that works: something that helps someone study faster, say things more clearly, or understand what their AI agents really did.
-
-> 🧭 **How I work.** Break the problem down, design the system, build with AI, evaluate honestly, then ship and learn. Domain knowledge and good evaluation matter more to me than clever code.
 
 <p align="center"><img src="assets/workflow.svg" width="100%" alt="Decompose, system design, build with AI, evaluate, ship and learn"></p>
 
@@ -104,7 +95,7 @@ Ranked by most recent activity.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-liard-ten-90.vercel.app/api?username=MaxonT&show_icons=true&theme=radical" alt="Tiger's GitHub stats">
+  <img height="180" src="https://github-readme-stats-liard-ten-90.vercel.app/api?username=MaxonT&show_icons=true&theme=radical" alt="GitHub stats">
   <img height="180" src="https://github-readme-stats-liard-ten-90.vercel.app/api/top-langs/?username=MaxonT&layout=compact&theme=radical" alt="Top languages">
 </p>
 <p align="center">
@@ -118,10 +109,7 @@ Ranked by most recent activity.
 
 ## 🌍 Let's connect
 
-I am always happy to chat about AI tools, study workflows, and open formats for agents. Say hi.
-
-- 💼 LinkedIn: [Ming Yang](https://www.linkedin.com/in/ming-yang-14270837a)
-- 📧 Email: [ming.t.yang@vanderbilt.edu](mailto:ming.t.yang@vanderbilt.edu)
+- 🐙 GitHub: [@MaxonT](https://github.com/MaxonT)
 
 <p align="center"><img src="assets/footer.svg" width="100%" alt=""></p>
 
