@@ -19,13 +19,13 @@
 
 </div>
 
-## 🏹 About this profile
+<img src="assets/h-about.svg" width="100%" alt="About this profile">
 
 I love publishing repos. Most of what I post is something I like and think might help someone else, so I put it out there. My technical skills are limited, but I am very active, and I push an update roughly every 3 days.
 
 If anything here is useful to you, please leave a ⭐ on the repo and [follow me](https://github.com/MaxonT?tab=followers). It really keeps me going.
 
-## 🎮 Off duty
+<img src="assets/h-offduty.svg" width="100%" alt="Off duty">
 
 ![Horror](https://img.shields.io/badge/Horror%20pick-FNAF-f59e0b?style=for-the-badge)
 ![Night](https://img.shields.io/badge/Night%205-survived-22c55e?style=for-the-badge)
@@ -40,7 +40,7 @@ And because debugging at 3 AM feels exactly like surviving a night shift, here i
 
 <p align="center"><img src="assets/workflow.svg" width="100%" alt="Decompose, system design, build with AI, evaluate, ship and learn"></p>
 
-## 📑 Contents
+<img src="assets/h-contents.svg" width="100%" alt="Contents">
 
 - [🏆 Latest Projects](#latest)
 - [🤖 Agents and Traces](#sec-1) · 3
@@ -50,7 +50,7 @@ And because debugging at 3 AM feels exactly like surviving a night shift, here i
 
 <a id="latest"></a>
 
-## 🏆 Latest Projects
+<img src="assets/h-latest.svg" width="100%" alt="Latest Projects">
 
 Ranked by most recent activity.
 
@@ -63,7 +63,7 @@ Ranked by most recent activity.
 
 <a id="sec-1"></a>
 
-## 🤖 Agents and Traces
+<img src="assets/h-traces.svg" width="100%" alt="Agents and Traces">
 
 | # | Project | Language | Updated | Description |
 |:-:|:--|:-:|:-:|:--|
@@ -73,7 +73,7 @@ Ranked by most recent activity.
 
 <a id="sec-2"></a>
 
-## 🎓 Learning and Productivity
+<img src="assets/h-learning.svg" width="100%" alt="Learning and Productivity">
 
 | # | Project | Language | Updated | Description |
 |:-:|:--|:-:|:-:|:--|
@@ -97,7 +97,7 @@ Ranked by most recent activity.
 
 <a id="stack"></a>
 
-## 🧰 Tech stack
+<img src="assets/h-stack.svg" width="100%" alt="Tech stack">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,mongodb,java,cpp,html,css,git,github,vscode,linux,docker&perline=8" alt="Skill icons">
@@ -111,7 +111,7 @@ Ranked by most recent activity.
 
 <a id="stats"></a>
 
-## 📊 GitHub stats
+<img src="assets/h-stats.svg" width="100%" alt="GitHub stats">
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-liard-ten-90.vercel.app/api?username=MaxonT&show_icons=true&theme=radical" alt="GitHub stats">
@@ -126,7 +126,7 @@ Ranked by most recent activity.
 
 <a id="connect"></a>
 
-## 🌍 Let's connect
+<img src="assets/h-connect.svg" width="100%" alt="Connect">
 
 - 🐙 GitHub: [@MaxonT](https://github.com/MaxonT) (⭐ stars and follows are very welcome)
 
