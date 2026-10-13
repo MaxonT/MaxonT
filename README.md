@@ -6,7 +6,7 @@
 
 ![Focus](https://img.shields.io/badge/Focus-AI%20Tools-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Building-22C55E?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Recent%20projects-5-blueviolet?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Recent%20projects-4-blueviolet?style=for-the-badge)
 ![Updated](https://img.shields.io/badge/updated-2026--10--13-brightgreen?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/MaxonT?style=for-the-badge&logo=github&color=0EA5E9)
 ![Views](https://komarev.com/ghpvc/?username=MaxonT&style=for-the-badge&color=F472B6&label=PROFILE+VIEWS)
@@ -46,7 +46,7 @@ And because debugging at 3 AM feels exactly like surviving a night shift, here a
 
 - [🏆 Latest Projects](#latest)
 - [🤖 Agents and Traces](#sec-1) · 3
-- [🎓 Learning and Productivity](#sec-2) · 2
+- [🎓 Learning and Productivity](#sec-2) · 1
 - [🧪 Currently exploring](#exploring)
 - [🧰 Tech stack](#stack) · [📊 Stats](#stats) · [🌍 Connect](#connect)
 
@@ -62,7 +62,6 @@ Ranked by most recent activity.
 | 2 | [**MaxonT/existence-trace**](https://github.com/MaxonT/existence-trace) | 2 | Python | 2026-10-12 | A self-improving personal state system: an AI agent reads your journal through emotion, security/hope and growth lenses, then turns your feedback into rules. |
 | 3 | [**MaxonT/tweeter_prototype**](https://github.com/MaxonT/tweeter_prototype) | 6 | JavaScript | 2026-10-12 | A sleek SocialMax UI demo built to explore design, layout and interaction. |
 | 4 | [**MaxonT/awesome-agent-workflows**](https://github.com/MaxonT/awesome-agent-workflows) | 1 | Markdown | 2026-10-10 | A curated, star-ranked catalog of agent frameworks, coding-agent harnesses and workflow platforms, in English and 中文, auto-refreshed. |
-| 5 | [**MaxonT/MeetMesh**](https://github.com/MaxonT/MeetMesh) | 1 | TypeScript | 2026-10-03 | A When2Meet-style scheduling mesh: share a link, paint availability, and surface the best slots. |
 
 <a id="sec-1"></a>
 
@@ -80,8 +79,7 @@ Ranked by most recent activity.
 
 | # | Project | Language | Updated | Description |
 |:-:|:--|:-:|:-:|:--|
-| 1 | [**MeetMesh**](https://github.com/MaxonT/MeetMesh) | TypeScript | 2026-10-03 | Group scheduling without the back and forth. |
-| 2 | [**learn_html_workshop**](https://github.com/MaxonT/learn_html_workshop) | HTML | 2026-03-09 | A hands-on workshop for building a modern portfolio site with only HTML and CSS. |
+| 1 | [**learn_html_workshop**](https://github.com/MaxonT/learn_html_workshop) | HTML | 2026-03-09 | A hands-on workshop for building a modern portfolio site with only HTML and CSS. |
 
 <a id="exploring"></a>
 

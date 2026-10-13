@@ -40,7 +40,6 @@
 | 2 | **[existence-trace](https://github.com/MaxonT/existence-trace)** | Python | 2026-10-12 | 会自我改进的个人状态系统:AI 读日记,征求反馈,转成规则。 |
 | 3 | **[tweeter_prototype](https://github.com/MaxonT/tweeter_prototype)** | JavaScript | 2026-10-12 | SocialMax 社交应用界面原型。 |
 | 4 | **[awesome-agent-workflows](https://github.com/MaxonT/awesome-agent-workflows)** | Markdown | 2026-10-10 | 按 star 排序的 agent 项目精选清单,中英双语,自动刷新。 |
-| 5 | **[MeetMesh](https://github.com/MaxonT/MeetMesh)** | TypeScript | 2026-10-03 | 类似 When2Meet 的排期工具。 |
 
 ## 🧰 技术栈
 
