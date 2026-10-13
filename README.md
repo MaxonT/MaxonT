@@ -33,9 +33,20 @@ If anything here is useful to you, please leave a ⭐ on the repo and [follow me
 
 **Bodycam is my favorite FPS game.** The tense, realistic bodycam look is hard to beat.
 
+<p align="center"><a href="https://store.steampowered.com/app/2406770/Bodycam/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2406770/header.jpg" width="70%" alt="Bodycam on Steam"></a></p>
+<p align="center"><sub>Bodycam on Steam. Art belongs to the developers.</sub></p>
+
 <p align="center"><img src="assets/bodycam-ops.svg" width="100%" alt="Bodycam style HUD: my favorite FPS game"></p>
 
-And because debugging at 3 AM feels exactly like surviving a night shift, here are some FNAF style memes I made:
+And because debugging at 3 AM feels exactly like surviving a night shift, here is the FNAF series, plus some memes I made:
+
+<p align="center">
+  <a href="https://store.steampowered.com/app/319510/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/319510/header.jpg" width="24%" alt="Five Nights at Freddy's"></a>
+  <a href="https://store.steampowered.com/app/332800/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/332800/header.jpg" width="24%" alt="Five Nights at Freddy's 2"></a>
+  <a href="https://store.steampowered.com/app/354140/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/354140/header.jpg" width="24%" alt="Five Nights at Freddy's 3"></a>
+  <a href="https://store.steampowered.com/app/388090/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/388090/header.jpg" width="24%" alt="Five Nights at Freddy's 4"></a>
+</p>
+<p align="center"><sub>FNAF 1 to 4 on Steam. Art belongs to Scott Cawthon.</sub></p>
 
 <p align="center"><img src="assets/fnaf-memes-night.svg" width="100%" alt="Three FNAF style memes about shipping code"></p>
 <p align="center"><img src="assets/fnaf-office-hud.svg" width="100%" alt="Night shift survival HUD"></p>
