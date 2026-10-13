@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner-the-archer.svg" alt="The Archer" width="100%"></p>
+<p align="center"><img src="assets/banner-notes.svg" alt="The Archer" width="100%"></p>
 
 <div align="center">
 
@@ -32,11 +32,11 @@ If anything here is useful to you, please leave a ⭐ on the repo and [follow me
 
 <sub><i>3 AM and the hallway hums. A door that was shut a minute ago is open now, light leaking out like it has somewhere to be. Someone is standing in it, or maybe I am the one standing and the corridor is what moves. Nothing in the footage explains itself. Neither do I. The build is still green though.</i></sub>
 
-<p align="center"><img src="assets/corridor.svg" width="100%" alt="A figure standing in a lit doorway at the end of a dark corridor"></p>
+<p align="center"><img src="assets/corridor-sketch.svg" width="100%" alt="A figure standing in a lit doorway at the end of a dark corridor"></p>
 
 And because debugging at 3 AM feels exactly like surviving a night shift, here is a night shift scene I drew:
 
-<p align="center"><img src="assets/fnaf-night-office.svg" width="100%" alt="A dim night security office"></p>
+<p align="center"><img src="assets/fnaf-sketch.svg" width="100%" alt="A dim night security office"></p>
 
 <p align="center"><img src="assets/workflow.svg" width="100%" alt="Decompose, system design, build with AI, evaluate, ship and learn"></p>
 
