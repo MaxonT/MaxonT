@@ -28,7 +28,7 @@
 
 凌晨三点调 bug 就像在熬 FNAF 的夜班,所以画了一张夜班保安室:
 
-<p align="center"><img src="assets/fnaf-office.svg" width="100%" alt="深夜保安室"></p>
+<p align="center"><img src="assets/fnaf-night-office.svg" width="100%" alt="深夜保安室"></p>
 
 <p align="center"><img src="assets/workflow.svg" width="100%" alt="拆解,系统设计,AI 构建,评估,发布"></p>
 

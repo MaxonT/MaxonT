@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="A dim night security office with a desk lamp, a monitor, a fan and a figure waiting in the hallway window">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a1c2c"/><stop offset="1" stop-color="#0d0e17"/></linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#15151f"/><stop offset="1" stop-color="#07070b"/></linearGradient>
+    <linearGradient id="deskTop" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b2f33"/><stop offset="1" stop-color="#211a1f"/></linearGradient>
+    <linearGradient id="deskFront" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b161b"/><stop offset="1" stop-color="#0a080c"/></linearGradient>
+    <radialGradient id="lampCone" cx="0.5" cy="0" r="1"><stop offset="0" stop-color="#ffd488" stop-opacity="0.55"/><stop offset="0.6" stop-color="#ffd488" stop-opacity="0.1"/><stop offset="1" stop-color="#ffd488" stop-opacity="0"/></radialGradient>
+    <radialGradient id="screenGlow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#4ade80" stop-opacity="0.35"/><stop offset="1" stop-color="#4ade80" stop-opacity="0"/></radialGradient>
+    <radialGradient id="hallLight" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#6b7fb5" stop-opacity="0.35"/><stop offset="1" stop-color="#6b7fb5" stop-opacity="0"/></radialGradient>
+    <linearGradient id="hall" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#020204"/><stop offset="1" stop-color="#14141f"/></linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1e4130"/><stop offset="1" stop-color="#0c1d15"/></linearGradient>
+    <radialGradient id="vig" cx="0.5" cy="0.5" r="0.75"><stop offset="0.45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></radialGradient>
+    <filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2"><animate attributeName="seed" values="3;8;5;11" dur="0.6s" repeatCount="indefinite"/></feTurbulence><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope="0.1"/></feComponentTransfer></filter>
+    <filter id="blur4"><feGaussianBlur stdDeviation="4"/></filter>
+    <filter id="blur10"><feGaussianBlur stdDeviation="10"/></filter>
+    <filter id="sh"><feDropShadow dx="0" dy="1" stdDeviation="1.4" flood-color="#000" flood-opacity="0.95"/></filter>
+    <pattern id="sc" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" opacity="0.14"/></pattern>
+    <clipPath id="frame"><rect width="1200" height="380" rx="14"/></clipPath>
+    <clipPath id="hr"><rect x="0" y="-26" width="90" height="34"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+  <rect width="1200" height="380" fill="url(#wall)"/>
+  <rect y="236" width="1200" height="144" fill="url(#floor)"/>
+  <path d="M0 236 H1200" stroke="#2a2b3d" stroke-width="2"/>
+  <rect y="204" width="1200" height="32" fill="#12121c"/><path d="M0 204 H1200" stroke="#232436" stroke-width="2"/>
+
+  <!-- wall seams -->
+  <g stroke="#202236" stroke-width="2"><path d="M330 0 V204 M870 0 V204"/></g>
+
+  <!-- hallway window -->
+  <g>
+    <rect x="452" y="38" width="296" height="198" fill="url(#hall)"/>
+    <g stroke="#1c1c2b" stroke-width="2" fill="none"><path d="M452 38 L566 104 M748 38 L634 104 M452 236 L566 168 M748 236 L634 168 M566 104 H634 V168 H566 Z"/></g>
+    <ellipse cx="600" cy="136" rx="46" ry="34" fill="url(#hallLight)"/>
+    <!-- figure with ears and top hat -->
+    <g><animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.4;0.55;0.7;0.78;1" dur="18s" repeatCount="indefinite"/>
+      <g fill="#07070c">
+        <circle cx="585" cy="128" r="6"/><circle cx="615" cy="128" r="6"/>
+        <ellipse cx="600" cy="140" rx="16" ry="14"/>
+        <rect x="589" y="115" width="22" height="3"/><rect x="592" y="104" width="16" height="12"/>
+        <path d="M584 152 Q600 146 616 152 L620 190 H580 Z"/>
+      </g>
+      <g fill="#e8eefc"><ellipse cx="594" cy="138" rx="2.8" ry="2"/><ellipse cx="606" cy="138" rx="2.8" ry="2"/></g>
+    </g>
+    <rect x="452" y="38" width="296" height="198" fill="none" stroke="#2a2b3f" stroke-width="5"/>
+    <rect x="452" y="38" width="296" height="198" fill="none" stroke="#3a3c55" stroke-width="1" opacity="0.7"/>
+  </g>
+
+  <!-- left and right control panels -->
+  <g><rect x="40" y="120" width="82" height="116" rx="6" fill="#0b0b12" stroke="#2a2b3d" stroke-width="2"/>
+    <rect x="58" y="140" width="46" height="16" rx="3" fill="#8f2323"/><rect x="58" y="168" width="46" height="16" rx="3" fill="#1f6b3a"><animate attributeName="opacity" values="1;0.55;1" dur="3s" repeatCount="indefinite"/></rect><rect x="58" y="196" width="46" height="10" rx="2" fill="#1b1b27"/></g>
+  <g><rect x="1078" y="120" width="82" height="116" rx="6" fill="#0b0b12" stroke="#2a2b3d" stroke-width="2"/>
+    <rect x="1096" y="140" width="46" height="16" rx="3" fill="#8f2323"/><rect x="1096" y="168" width="46" height="16" rx="3" fill="#1f6b3a"/><rect x="1096" y="196" width="46" height="10" rx="2" fill="#1b1b27"/></g>
+
+  <!-- posters -->
+  <g transform="translate(170 52) rotate(-3)"><rect width="104" height="132" fill="#2a2231" stroke="#4a3b55" stroke-width="2"/>
+    <g fill="#d6b56a" opacity="0.85"><circle cx="30" cy="38" r="9"/><circle cx="74" cy="38" r="9"/><circle cx="52" cy="62" r="13"/></g><path d="M28 96 q24 18 48 0" stroke="#d6b56a" stroke-width="3" fill="none" opacity="0.85"/>
+    <text x="52" y="122" font-family="'Courier New',monospace" font-size="10" fill="#d6b56a" text-anchor="middle" opacity="0.85">CELEBRATE</text></g>
+  <g transform="translate(960 60) rotate(2)"><rect width="96" height="116" fill="#212633" stroke="#3b4256" stroke-width="2"/>
+    <g fill="#8fb3c9" opacity="0.7"><rect x="12" y="14" width="72" height="7"/><rect x="12" y="30" width="50" height="5"/><rect x="12" y="43" width="58" height="5"/><rect x="12" y="56" width="38" height="5"/></g>
+    <text x="48" y="100" font-family="'Courier New',monospace" font-size="10" fill="#8fb3c9" text-anchor="middle" opacity="0.85">STAFF ONLY</text></g>
+
+  <!-- ceiling lamp light -->
+  <path d="M520 0 H680 L880 330 H320 Z" fill="url(#lampCone)"><animate attributeName="opacity" values="1;1;0.7;1;0.82;1;1" keyTimes="0;0.4;0.42;0.45;0.5;0.53;1" dur="11s" repeatCount="indefinite"/></path>
+  <rect x="560" y="0" width="80" height="6" fill="#ffe3a8" opacity="0.9"/>
+
+  <!-- desk -->
+  <path d="M110 380 L170 270 H1030 L1090 380 Z" fill="url(#deskFront)"/>
+  <path d="M150 304 H1050 V270 H150 Z" fill="url(#deskTop)" opacity="0"/>
+  <rect x="150" y="262" width="900" height="14" rx="3" fill="url(#deskTop)"/>
+  <path d="M150 262 H1050" stroke="#6b565c" stroke-width="2" opacity="0.8"/>
+  <ellipse cx="600" cy="266" rx="260" ry="12" fill="url(#screenGlow)"/>
+
+  <!-- monitor -->
+  <g transform="translate(510 170)"><rect x="-8" y="-8" width="196" height="116" rx="7" fill="#0a0a0f" stroke="#3a3a52" stroke-width="2"/>
+    <rect width="180" height="100" fill="url(#screen)"/>
+    <g stroke="#3fae6f" stroke-width="2" fill="none" opacity="0.75"><path d="M16 78 L62 50 H118 L164 78 M62 50 V22 M118 50 V22"/></g>
+    <circle cx="14" cy="13" r="3" fill="#ef4444"><animate attributeName="opacity" values="1;0.15;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="24" y="17" font-family="'Courier New',monospace" font-size="9" fill="#7ee0a6">CAM 2B  WEST HALL</text>
+    <g><animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.4;0.55;0.7;0.78;1" dur="18s" repeatCount="indefinite"/><ellipse cx="86" cy="50" rx="2.5" ry="1.8" fill="#d7ffe0"/><ellipse cx="94" cy="50" rx="2.5" ry="1.8" fill="#d7ffe0"/></g>
+    <rect y="-16" width="180" height="12" fill="#7ee0a6" opacity="0.07"><animate attributeName="y" values="-16;106" dur="4s" repeatCount="indefinite"/></rect>
+    <rect x="76" y="108" width="28" height="22" fill="#14131a"/><rect x="52" y="128" width="76" height="8" rx="3" fill="#1d1b24"/><rect x="52" y="128" width="76" height="2" fill="#4a4660"/></g>
+
+  <!-- fan -->
+  <g transform="translate(312 236)"><ellipse cy="40" rx="30" ry="4" fill="#000" opacity="0.4"/><rect x="-4" y="14" width="8" height="26" fill="#15141c"/><rect x="-24" y="38" width="48" height="6" rx="2" fill="#15141c"/>
+    <circle r="28" fill="none" stroke="#3d3d52" stroke-width="2"/><circle r="28" fill="#0a0a10" opacity="0.4"/>
+    <g><animateTransform attributeName="transform" type="rotate" values="0;360" dur="1s" repeatCount="indefinite"/><path d="M0 0 C-6 -20 7 -26 0 -2 Z M0 0 C20 -6 26 7 2 0 Z M0 0 C6 20 -7 26 0 2 Z M0 0 C-20 6 -26 -7 -2 0 Z" fill="#4e4e66" opacity="0.65"/></g><circle r="4" fill="#6f6f8a"/></g>
+
+  <!-- desk lamp -->
+  <g transform="translate(860 262)"><ellipse cy="2" rx="30" ry="5" fill="#000" opacity="0.4"/><rect x="-24" y="-6" width="48" height="8" rx="3" fill="#1b1a24"/><path d="M0 -6 L-18 -62 L22 -92" stroke="#2c2b3a" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <path d="M10 -104 L46 -86 L32 -70 L6 -86 Z" fill="#26253a"/><path d="M12 -82 L40 -68 L-6 -2 Z" fill="#ffd488" opacity="0.2" filter="url(#blur4)"/><ellipse cx="24" cy="-76" rx="12" ry="5" fill="#ffe3a8" opacity="0.9" transform="rotate(26 24 -76)"/></g>
+
+  <!-- cup, papers, plush -->
+  <g transform="translate(740 262)"><path d="M0 0 L36 0 L32 -48 L4 -48 Z" fill="#7a2020"/><path d="M4 -48 L32 -48 L33 -41 L3 -41 Z" fill="#9b2c2c"/><rect x="2" y="-52" width="32" height="6" rx="2" fill="#e5e7eb" opacity="0.85"/><rect x="15" y="-74" width="3" height="24" fill="#e5e7eb" opacity="0.75"/><path d="M8 -44 V-6" stroke="#fff" stroke-opacity="0.18" stroke-width="3"/></g>
+  <g transform="translate(930 270) rotate(-5)"><rect width="76" height="9" fill="#cfcfd8" opacity="0.7"/><rect y="-7" width="72" height="9" fill="#e5e7eb" opacity="0.6"/></g>
+  <g transform="translate(402 262)"><ellipse cy="2" rx="26" ry="4" fill="#000" opacity="0.4"/><circle cy="-22" r="16" fill="#4a2f22"/><circle cx="-13" cy="-36" r="6" fill="#4a2f22"/><circle cx="13" cy="-36" r="6" fill="#4a2f22"/><ellipse cy="-18" rx="7" ry="5" fill="#8a6a50"/><circle cx="-6" cy="-26" r="2" fill="#0a0a0f"/><circle cx="6" cy="-26" r="2" fill="#0a0a0f"/><rect x="-10" y="-47" width="20" height="3" fill="#15141c"/><rect x="-7" y="-58" width="14" height="11" fill="#15141c"/></g>
+
+  <!-- dust in lamp light -->
+  <g fill="#ffe3a8">
+    <circle cx="560" cy="120" r="1.4"><animate attributeName="cy" values="130;60" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="170" r="1.2"><animate attributeName="cy" values="180;90" dur="12s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="12s" begin="-4s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="110" r="1.6"><animate attributeName="cy" values="120;40" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="10s" begin="-6s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="190" r="1.2"><animate attributeName="cy" values="200;130" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="11s" begin="-2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- HUD -->
+  <g font-family="'Courier New',monospace" filter="url(#sh)">
+    <g transform="translate(40 56)" fill="#eef0f6" font-size="30" font-weight="700"><g clip-path="url(#hr)"><g><animateTransform attributeName="transform" type="translate" calcMode="discrete" values="0 0;0 -40;0 -80;0 -120;0 -160;0 -200" dur="30s" repeatCount="indefinite"/><text y="0">12 AM</text><text y="40">1 AM</text><text y="80">2 AM</text><text y="120">3 AM</text><text y="160">4 AM</text><text y="200" fill="#4ade80">5 AM</text></g></g></g>
+    <text x="40" y="82" font-size="14" fill="#a8adbb">Night 5</text>
+    <g transform="translate(1160 50)" text-anchor="end"><circle cx="-50" cy="-5" r="4" fill="#ef4444"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle><text font-size="14" fill="#eef0f6" letter-spacing="2">REC</text></g>
+    <g transform="translate(40 346)" fill="#eef0f6" font-size="15"><text>Power left: 42%</text><g transform="translate(152 -13)"><rect width="14" height="14" fill="#3f9b5f"/><rect x="18" width="14" height="14" fill="#3f9b5f"/><rect x="36" width="14" height="14" fill="#c9a227"/><rect x="54" width="14" height="14" fill="#8a2a2a"/></g></g>
+    <text x="600" y="350" font-size="16" fill="#f3f4f6" text-anchor="middle" opacity="0.92">Me at 3 AM, pushing straight to main</text>
+  </g>
+
+  <rect width="1200" height="380" filter="url(#grain)"/>
+  <rect width="1200" height="380" fill="url(#sc)"/>
+  <rect width="1200" height="380" fill="url(#vig)"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="378" rx="13" fill="none" stroke="#2a2b3d" stroke-width="2"/>
+</svg>
