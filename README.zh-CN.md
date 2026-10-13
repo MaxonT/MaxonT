@@ -24,11 +24,18 @@
 
 **Bodycam 是我最喜欢的 FPS 游戏。**
 
-<p align="center"><img src="assets/bodycam-ops.svg" width="100%" alt="Bodycam 风格画面"></p>
+<p align="center"><a href="https://store.steampowered.com/app/2406770/Bodycam/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2406770/header.jpg" width="70%" alt="Bodycam on Steam"></a></p>
+<p align="center"><sub>Bodycam on Steam. Art belongs to the developers.</sub></p>
 
-凌晨三点调 bug 就像在熬 FNAF 的夜班,所以做了几张 FNAF 风格的搞怪 meme:
+凌晨三点调 bug 就像在熬 FNAF 的夜班,所以放上 FNAF 系列:
 
-<p align="center"><img src="assets/fnaf-memes-night.svg" width="100%" alt="FNAF 风格 meme"></p>
+<p align="center">
+  <a href="https://store.steampowered.com/app/319510/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/319510/header.jpg" width="24%" alt="Five Nights at Freddy's"></a>
+  <a href="https://store.steampowered.com/app/332800/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/332800/header.jpg" width="24%" alt="Five Nights at Freddy's 2"></a>
+  <a href="https://store.steampowered.com/app/354140/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/354140/header.jpg" width="24%" alt="Five Nights at Freddy's 3"></a>
+  <a href="https://store.steampowered.com/app/388090/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/388090/header.jpg" width="24%" alt="Five Nights at Freddy's 4"></a>
+</p>
+<p align="center"><sub>FNAF 1 to 4 on Steam. Art belongs to Scott Cawthon.</sub></p>
 
 <p align="center"><img src="assets/workflow.svg" width="100%" alt="拆解,系统设计,AI 构建,评估,发布"></p>
 
