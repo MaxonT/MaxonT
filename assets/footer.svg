@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="presentation">
+  <defs><linearGradient id="w" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+  <path fill="url(#w)" opacity="0.35" d="M0,60 C200,100 400,20 600,60 C800,100 1000,20 1200,60 L1200,120 L0,120 Z"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0,60 C200,100 400,20 600,60 C800,100 1000,20 1200,60 L1200,120 L0,120 Z;M0,60 C200,20 400,100 600,60 C800,20 1000,100 1200,60 L1200,120 L0,120 Z;M0,60 C200,100 400,20 600,60 C800,100 1000,20 1200,60 L1200,120 L0,120 Z"/></path>
+  <path fill="url(#w)" opacity="0.6" d="M0,80 C300,40 500,110 700,80 C900,50 1050,100 1200,80 L1200,120 L0,120 Z"><animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0,80 C300,40 500,110 700,80 C900,50 1050,100 1200,80 L1200,120 L0,120 Z;M0,80 C300,110 500,40 700,80 C900,110 1050,50 1200,80 L1200,120 L0,120 Z;M0,80 C300,40 500,110 700,80 C900,50 1050,100 1200,80 L1200,120 L0,120 Z"/></path>
+</svg>
