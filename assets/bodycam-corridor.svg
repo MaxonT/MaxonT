@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Bodycam footage of a dim corridor">
+  <defs>
+    <linearGradient id="wallL" x1="0" x2="1"><stop offset="0" stop-color="#1a201c"/><stop offset="1" stop-color="#3a423a"/></linearGradient>
+    <linearGradient id="wallR" x1="1" x2="0"><stop offset="0" stop-color="#1a201c"/><stop offset="1" stop-color="#3a423a"/></linearGradient>
+    <linearGradient id="ceil" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0d0b"/><stop offset="1" stop-color="#242a25"/></linearGradient>
+    <linearGradient id="flr" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#0d100e"/><stop offset="1" stop-color="#2b312c"/></linearGradient>
+    <radialGradient id="spill" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#fff3c9" stop-opacity="0.95"/><stop offset="0.35" stop-color="#e8d9a0" stop-opacity="0.35"/><stop offset="1" stop-color="#e8d9a0" stop-opacity="0"/></radialGradient>
+    <linearGradient id="beam" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#fff6d8" stop-opacity="0.22"/><stop offset="1" stop-color="#fff6d8" stop-opacity="0"/></linearGradient>
+    <radialGradient id="vig" cx="0.5" cy="0.5" r="0.78"><stop offset="0.4" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.88"/></radialGradient>
+    <filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2"><animate attributeName="seed" values="2;7;4;9;5" dur="0.5s" repeatCount="indefinite"/></feTurbulence><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope="0.14"/></feComponentTransfer></filter>
+    <filter id="bloom" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
+    <filter id="sh"><feDropShadow dx="0" dy="0" stdDeviation="1.2" flood-color="#000" flood-opacity="0.9"/></filter>
+    <pattern id="sc" width="3" height="3" patternUnits="userSpaceOnUse"><rect width="3" height="1" fill="#000" opacity="0.18"/></pattern>
+    <clipPath id="frame"><rect width="1200" height="380" rx="14"/></clipPath>
+    <clipPath id="dg"><rect x="0" y="-17" width="12" height="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;4 -2;-3 2;2 3;0 0" dur="9s" repeatCount="indefinite"/>
+    <g transform="translate(-18 -10) scale(1.03)">
+      <polygon points="0,0 560,140 560,200 0,380" fill="url(#wallL)"/>
+      <polygon points="1200,0 640,140 640,200 1200,380" fill="url(#wallR)"/>
+      <polygon points="0,0 1200,0 640,140 560,140" fill="url(#ceil)"/>
+      <polygon points="0,380 1200,380 640,200 560,200" fill="url(#flr)"/>
+      <polygon points="100.8,96.1 190.4,107.3 190.4,318.8 100.8,347.6" fill="#1d2420" stroke="#0a0d0b" stroke-width="2"/>
+<circle cx="172.5" cy="217.6" r="2.2" fill="#9a8f6a"/>
+<polygon points="257.6,115.6 313.6,122.6 313.6,279.2 257.6,297.2" fill="#1d2420" stroke="#0a0d0b" stroke-width="2"/>
+<circle cx="302.4" cy="204.1" r="2.2" fill="#9a8f6a"/>
+<polygon points="392.0,132.3 436.8,137.9 436.8,239.6 392.0,254.0" fill="#1d2420" stroke="#0a0d0b" stroke-width="2"/>
+<circle cx="427.8" cy="191.0" r="2.2" fill="#9a8f6a"/>
+<polygon points="1099.2,96.1 1009.6,107.3 1009.6,318.8 1099.2,347.6" fill="#1d2420" stroke="#0a0d0b" stroke-width="2"/>
+<circle cx="1027.5" cy="217.6" r="2.2" fill="#9a8f6a"/>
+<polygon points="942.4,115.6 886.4,122.6 886.4,279.2 942.4,297.2" fill="#1d2420" stroke="#0a0d0b" stroke-width="2"/>
+<circle cx="897.6" cy="204.1" r="2.2" fill="#9a8f6a"/>
+<polygon points="808.0,132.3 763.2,137.9 763.2,239.6 808.0,254.0" fill="#1d2420" stroke="#0a0d0b" stroke-width="2"/>
+<circle cx="772.2" cy="191.0" r="2.2" fill="#9a8f6a"/>
+
+      <g stroke="#0a0d0b" stroke-opacity="0.55" stroke-width="1.5"><line x1="-600" y1="380" x2="520" y2="200"/><line x1="-450" y1="380" x2="530" y2="200"/><line x1="-300" y1="380" x2="540" y2="200"/><line x1="-150" y1="380" x2="550" y2="200"/><line x1="0" y1="380" x2="560" y2="200"/><line x1="150" y1="380" x2="570" y2="200"/><line x1="300" y1="380" x2="580" y2="200"/><line x1="450" y1="380" x2="590" y2="200"/><line x1="600" y1="380" x2="600" y2="200"/><line x1="750" y1="380" x2="610" y2="200"/><line x1="900" y1="380" x2="620" y2="200"/><line x1="1050" y1="380" x2="630" y2="200"/><line x1="1200" y1="380" x2="640" y2="200"/><line x1="1350" y1="380" x2="650" y2="200"/><line x1="1500" y1="380" x2="660" y2="200"/><line x1="1650" y1="380" x2="670" y2="200"/><line x1="1800" y1="380" x2="680" y2="200"/><line x1="0" y1="335.0" x2="1200" y2="335.0"/><line x1="0" y1="299.0" x2="1200" y2="299.0"/><line x1="0" y1="268.4" x2="1200" y2="268.4"/><line x1="0" y1="243.2" x2="1200" y2="243.2"/><line x1="0" y1="221.6" x2="1200" y2="221.6"/></g>
+      <polygon points="450.8,16.8 749.2,16.8 721.0,42.0 479.0,42.0" fill="#f4ecd0" opacity="0.9"/>
+<polygon points="494.7,56.0 705.3,56.0 686.5,72.8 513.5,72.8" fill="#f4ecd0" opacity="0.85"/>
+<polygon points="529.2,86.8 670.8,86.8 656.7,99.4 543.3,99.4" fill="#f4ecd0" opacity="0.8"/>
+<polygon points="557.4,112.0 642.6,112.0 633.2,120.4 566.8,120.4" fill="#f4ecd0" opacity="0.75"/>
+
+      <rect x="560" y="140" width="80" height="60" fill="#c9bb8c"/>
+      <ellipse cx="600" cy="170" rx="150" ry="110" fill="url(#spill)" filter="url(#bloom)"/>
+      <g fill="#05060a">
+        <g><animate attributeName="opacity" values="0;0;0.9;0.9;0;0" keyTimes="0;0.4;0.46;0.6;0.66;1" dur="14s" repeatCount="indefinite"/>
+          <circle cx="600" cy="156" r="4"/><path d="M595 160 h10 l2 24 h-14 z"/></g>
+      </g>
+      <g><animateTransform attributeName="transform" type="rotate" values="-6 600 380;6 600 380;-6 600 380" dur="10s" repeatCount="indefinite"/><path d="M570 380 L470 120 H730 L630 380 Z" fill="url(#beam)"/></g>
+    </g>
+  </g>
+  <rect width="1200" height="380" filter="url(#grain)"/>
+  <rect width="1200" height="380" fill="url(#sc)"/>
+  <rect width="1200" height="380" fill="url(#vig)"/>
+  <g font-family="'Courier New',monospace" fill="#f3f6f1" filter="url(#sh)" opacity="0.92">
+    <circle cx="48" cy="46" r="7" fill="#ef4444"><animate attributeName="opacity" values="1;0.15;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="64" y="52" font-size="18" letter-spacing="3">REC</text>
+    <text x="1152" y="52" font-size="16" text-anchor="end" letter-spacing="1">BODY CAMERA 04   BAT 87%</text>
+    <text x="48" y="340" font-size="17" textLength="200" lengthAdjust="spacing">2026-10-13  03:00:0</text>
+    <g transform="translate(249 340)"><g clip-path="url(#dg)"><g><animateTransform attributeName="transform" type="translate" calcMode="discrete" values="0 0;0 -22;0 -44;0 -66;0 -88;0 -110;0 -132;0 -154;0 -176;0 -198" dur="10s" repeatCount="indefinite"/><text y="0" font-size="17">0</text><text y="22" font-size="17">1</text><text y="44" font-size="17">2</text><text y="66" font-size="17">3</text><text y="88" font-size="17">4</text><text y="110" font-size="17">5</text><text y="132" font-size="17">6</text><text y="154" font-size="17">7</text><text y="176" font-size="17">8</text><text y="198" font-size="17">9</text></g></g></g>
+    <text x="1152" y="340" font-size="16" text-anchor="end" letter-spacing="1">PRE-EVENT BUFFER 30S</text>
+    <text x="600" y="342" font-size="15" text-anchor="middle" letter-spacing="6" opacity="0.85">BODYCAM</text>
+  </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="378" rx="13" fill="none" stroke="#2f3a31" stroke-width="2"/>
+</svg>

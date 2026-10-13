@@ -24,7 +24,7 @@
 
 **Bodycam 是我最喜欢的 FPS 游戏。**
 
-<p align="center"><img src="assets/bodycam-ops.svg" width="100%" alt="Bodycam 风格画面"></p>
+<p align="center"><img src="assets/bodycam-corridor.svg" width="100%" alt="Bodycam 风格画面"></p>
 
 凌晨三点调 bug 就像在熬 FNAF 的夜班,所以画了一张夜班保安室:
 
