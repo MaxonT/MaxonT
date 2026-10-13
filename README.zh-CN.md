@@ -11,6 +11,12 @@
 
 </div>
 
+## 🏹 关于这个主页
+
+我喜欢发布 repo。发出来的大多是我自己喜欢、也觉得可能对别人有帮助的东西。我的技术能力有限,但我很积极,大约每 2 天更新一次。
+
+如果这里的东西对你有用,请给仓库点个 ⭐,也欢迎 [关注我](https://github.com/MaxonT?tab=followers),这对我是很大的鼓励。
+
 <p align="center"><img src="assets/workflow.svg" width="100%" alt="拆解,系统设计,AI 构建,评估,发布"></p>
 
 ## 🔥 最近在做的项目

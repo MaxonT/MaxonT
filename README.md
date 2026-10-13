@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/MaxonT/MyProfile"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=The+Archer;Aim+small%2C+ship+often;Agent+traces+%7C+AI+tools+%7C+open+formats" alt="Typing intro"></a>
+<a href="https://github.com/MaxonT/MyProfile"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=The+Archer;I+love+publishing+repos;I+share+what+I+like+and+think+might+help;Limited+skills%2C+but+very+active;A+new+update+every+2+days;Stars+and+follows+make+my+day" alt="Typing intro"></a>
 
 ![Focus](https://img.shields.io/badge/Focus-AI%20Tools-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Building-22C55E?style=for-the-badge)
@@ -11,11 +11,19 @@
 ![Followers](https://img.shields.io/github/followers/MaxonT?style=for-the-badge&logo=github&color=0EA5E9)
 ![Views](https://komarev.com/ghpvc/?username=MaxonT&style=for-the-badge&color=F472B6&label=PROFILE+VIEWS)
 
+[![Follow](https://img.shields.io/badge/Follow-@MaxonT-181717?style=for-the-badge&logo=github)](https://github.com/MaxonT?tab=followers)
+[![Star](https://img.shields.io/badge/Star-my%20repos-F5C518?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MaxonT?tab=repositories)
 [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-README-F59E0B?style=for-the-badge)](README.zh-CN.md)
 
 <img src="assets/divider.svg" width="100%" alt="">
 
 </div>
+
+## 🏹 About this profile
+
+I love publishing repos. Most of what I post is something I like and think might help someone else, so I put it out there. My technical skills are limited, but I am very active, and I push an update roughly every 2 days.
+
+If anything here is useful to you, please leave a ⭐ on the repo and [follow me](https://github.com/MaxonT?tab=followers). It really keeps me going.
 
 <p align="center"><img src="assets/workflow.svg" width="100%" alt="Decompose, system design, build with AI, evaluate, ship and learn"></p>
 
@@ -109,7 +117,7 @@ Ranked by most recent activity.
 
 ## 🌍 Let's connect
 
-- 🐙 GitHub: [@MaxonT](https://github.com/MaxonT)
+- 🐙 GitHub: [@MaxonT](https://github.com/MaxonT) (⭐ stars and follows are very welcome)
 
 <p align="center"><img src="assets/footer.svg" width="100%" alt=""></p>
 
