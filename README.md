@@ -1,30 +1,44 @@
-<p align="center"><img src="assets/banner.svg" alt="Tiger Yang, MaxonT" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="The Archer" width="100%"></p>
 
 <div align="center">
 
-<a href="https://github.com/MaxonT/MyProfile"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Tiger+(MaxonT);CS+student+%40+Vanderbilt+University;I+build+small+AI+tools+that+people+actually+use;Study+tools+%7C+prompt+tools+%7C+agent+traces;First-gen%2C+curious%2C+shipping+every+week" alt="Typing intro"></a>
+<a href="https://github.com/MaxonT/MyProfile"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=The+Archer;I+love+publishing+repos;I+share+what+I+like+and+think+might+help;Limited+skills%2C+but+very+active;A+new+update+every+3+days;Bodycam+is+my+favorite+FPS;Night+5+survived+again;Stars+and+follows+make+my+day" alt="Typing intro"></a>
 
-![Vanderbilt](https://img.shields.io/badge/Vanderbilt-Computer%20Science-866D4B?style=for-the-badge&logo=academia&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-AI%20Tools-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Building-22C55E?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Recent%20projects-5-blueviolet?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Recent%20projects-4-blueviolet?style=for-the-badge)
 ![Updated](https://img.shields.io/badge/updated-2026--10--13-brightgreen?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/MaxonT?style=for-the-badge&logo=github&color=0EA5E9)
 ![Views](https://komarev.com/ghpvc/?username=MaxonT&style=for-the-badge&color=F472B6&label=PROFILE+VIEWS)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ming%20Yang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ming-yang-14270837a)
-[![Email](https://img.shields.io/badge/Email-Vanderbilt-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ming.t.yang@vanderbilt.edu)
+[![Follow](https://img.shields.io/badge/Follow-@MaxonT-181717?style=for-the-badge&logo=github)](https://github.com/MaxonT?tab=followers)
+[![Star](https://img.shields.io/badge/Star-my%20repos-F5C518?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MaxonT?tab=repositories)
 [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-README-F59E0B?style=for-the-badge)](README.zh-CN.md)
 
 <img src="assets/divider.svg" width="100%" alt="">
 
 </div>
 
-## 👋 About me
+## 🏹 About this profile
 
-My name is Tiger Yang, a Computer Science student at Vanderbilt University. I like turning a messy everyday problem into a small tool that works: something that helps someone study faster, say things more clearly, or understand what their AI agents really did.
+I love publishing repos. Most of what I post is something I like and think might help someone else, so I put it out there. My technical skills are limited, but I am very active, and I push an update roughly every 3 days.
 
-> 🧭 **How I work.** Break the problem down, design the system, build with AI, evaluate honestly, then ship and learn. Domain knowledge and good evaluation matter more to me than clever code.
+If anything here is useful to you, please leave a ⭐ on the repo and [follow me](https://github.com/MaxonT?tab=followers). It really keeps me going.
+
+## 🎮 Off duty
+
+![Favorite FPS](https://img.shields.io/badge/Favorite%20FPS-Bodycam-ef4444?style=for-the-badge&logo=steam&logoColor=white)
+![Horror](https://img.shields.io/badge/Horror%20pick-FNAF-f59e0b?style=for-the-badge)
+![Night](https://img.shields.io/badge/Night%205-survived-22c55e?style=for-the-badge)
+
+**Bodycam is my favorite FPS game.** The tense, realistic bodycam look is hard to beat.
+
+<p align="center"><img src="assets/bodycam.svg" width="100%" alt="Bodycam style HUD: my favorite FPS game"></p>
+
+And because debugging at 3 AM feels exactly like surviving a night shift, here are some FNAF style memes I made:
+
+<p align="center"><img src="assets/fnaf-memes.svg" width="100%" alt="Three FNAF style memes about shipping code"></p>
+<p align="center"><img src="assets/fnaf-night.svg" width="100%" alt="Night shift survival HUD"></p>
 
 <p align="center"><img src="assets/workflow.svg" width="100%" alt="Decompose, system design, build with AI, evaluate, ship and learn"></p>
 
@@ -32,7 +46,7 @@ My name is Tiger Yang, a Computer Science student at Vanderbilt University. I li
 
 - [🏆 Latest Projects](#latest)
 - [🤖 Agents and Traces](#sec-1) · 3
-- [🎓 Learning and Productivity](#sec-2) · 2
+- [🎓 Learning and Productivity](#sec-2) · 1
 - [🧪 Currently exploring](#exploring)
 - [🧰 Tech stack](#stack) · [📊 Stats](#stats) · [🌍 Connect](#connect)
 
@@ -48,7 +62,6 @@ Ranked by most recent activity.
 | 2 | [**MaxonT/existence-trace**](https://github.com/MaxonT/existence-trace) | 2 | Python | 2026-10-12 | A self-improving personal state system: an AI agent reads your journal through emotion, security/hope and growth lenses, then turns your feedback into rules. |
 | 3 | [**MaxonT/tweeter_prototype**](https://github.com/MaxonT/tweeter_prototype) | 6 | JavaScript | 2026-10-12 | A sleek SocialMax UI demo built to explore design, layout and interaction. |
 | 4 | [**MaxonT/awesome-agent-workflows**](https://github.com/MaxonT/awesome-agent-workflows) | 1 | Markdown | 2026-10-10 | A curated, star-ranked catalog of agent frameworks, coding-agent harnesses and workflow platforms, in English and 中文, auto-refreshed. |
-| 5 | [**MaxonT/MeetMesh**](https://github.com/MaxonT/MeetMesh) | 1 | TypeScript | 2026-10-03 | A When2Meet-style scheduling mesh: share a link, paint availability, and surface the best slots. |
 
 <a id="sec-1"></a>
 
@@ -66,8 +79,7 @@ Ranked by most recent activity.
 
 | # | Project | Language | Updated | Description |
 |:-:|:--|:-:|:-:|:--|
-| 1 | [**MeetMesh**](https://github.com/MaxonT/MeetMesh) | TypeScript | 2026-10-03 | Group scheduling without the back and forth. |
-| 2 | [**learn_html_workshop**](https://github.com/MaxonT/learn_html_workshop) | HTML | 2026-03-09 | A hands-on workshop for building a modern portfolio site with only HTML and CSS. |
+| 1 | [**learn_html_workshop**](https://github.com/MaxonT/learn_html_workshop) | HTML | 2026-03-09 | A hands-on workshop for building a modern portfolio site with only HTML and CSS. |
 
 <a id="exploring"></a>
 
@@ -104,7 +116,7 @@ Ranked by most recent activity.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-liard-ten-90.vercel.app/api?username=MaxonT&show_icons=true&theme=radical" alt="Tiger's GitHub stats">
+  <img height="180" src="https://github-readme-stats-liard-ten-90.vercel.app/api?username=MaxonT&show_icons=true&theme=radical" alt="GitHub stats">
   <img height="180" src="https://github-readme-stats-liard-ten-90.vercel.app/api/top-langs/?username=MaxonT&layout=compact&theme=radical" alt="Top languages">
 </p>
 <p align="center">
@@ -118,10 +130,7 @@ Ranked by most recent activity.
 
 ## 🌍 Let's connect
 
-I am always happy to chat about AI tools, study workflows, and open formats for agents. Say hi.
-
-- 💼 LinkedIn: [Ming Yang](https://www.linkedin.com/in/ming-yang-14270837a)
-- 📧 Email: [ming.t.yang@vanderbilt.edu](mailto:ming.t.yang@vanderbilt.edu)
+- 🐙 GitHub: [@MaxonT](https://github.com/MaxonT) (⭐ stars and follows are very welcome)
 
 <p align="center"><img src="assets/footer.svg" width="100%" alt=""></p>
 
