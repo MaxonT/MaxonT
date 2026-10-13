@@ -37,7 +37,7 @@ If anything here is useful to you, please leave a ⭐ on the repo and [follow me
 
 And because debugging at 3 AM feels exactly like surviving a night shift, here is a night shift scene I drew:
 
-<p align="center"><img src="assets/fnaf-office.svg" width="100%" alt="A dim night security office"></p>
+<p align="center"><img src="assets/fnaf-night-office.svg" width="100%" alt="A dim night security office"></p>
 
 <p align="center"><img src="assets/workflow.svg" width="100%" alt="Decompose, system design, build with AI, evaluate, ship and learn"></p>
 
