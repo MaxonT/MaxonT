@@ -24,11 +24,11 @@
 
 **Bodycam 是我最喜欢的 FPS 游戏。**
 
-<p align="center"><img src="assets/bodycam-hud.svg" width="100%" alt="Bodycam 风格画面"></p>
+<p align="center"><img src="assets/bodycam-ops.svg" width="100%" alt="Bodycam 风格画面"></p>
 
 凌晨三点调 bug 就像在熬 FNAF 的夜班,所以做了几张 FNAF 风格的搞怪 meme:
 
-<p align="center"><img src="assets/fnaf-memes.svg" width="100%" alt="FNAF 风格 meme"></p>
+<p align="center"><img src="assets/fnaf-memes-night.svg" width="100%" alt="FNAF 风格 meme"></p>
 
 <p align="center"><img src="assets/workflow.svg" width="100%" alt="拆解,系统设计,AI 构建,评估,发布"></p>
 

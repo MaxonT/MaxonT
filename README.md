@@ -33,12 +33,12 @@ If anything here is useful to you, please leave a ⭐ on the repo and [follow me
 
 **Bodycam is my favorite FPS game.** The tense, realistic bodycam look is hard to beat.
 
-<p align="center"><img src="assets/bodycam-hud.svg" width="100%" alt="Bodycam style HUD: my favorite FPS game"></p>
+<p align="center"><img src="assets/bodycam-ops.svg" width="100%" alt="Bodycam style HUD: my favorite FPS game"></p>
 
 And because debugging at 3 AM feels exactly like surviving a night shift, here are some FNAF style memes I made:
 
-<p align="center"><img src="assets/fnaf-memes.svg" width="100%" alt="Three FNAF style memes about shipping code"></p>
-<p align="center"><img src="assets/fnaf-night.svg" width="100%" alt="Night shift survival HUD"></p>
+<p align="center"><img src="assets/fnaf-memes-night.svg" width="100%" alt="Three FNAF style memes about shipping code"></p>
+<p align="center"><img src="assets/fnaf-office-hud.svg" width="100%" alt="Night shift survival HUD"></p>
 
 <p align="center"><img src="assets/workflow.svg" width="100%" alt="Decompose, system design, build with AI, evaluate, ship and learn"></p>
 

@@ -19,6 +19,11 @@
   <rect width="1200" height="360" rx="14" fill="url(#scan)"/>
   <rect y="-80" width="1200" height="80" fill="url(#sweep)"><animate attributeName="y" values="-80;360" dur="4s" repeatCount="indefinite"/></rect>
 
+  <!-- flashlight cone -->
+  <defs><linearGradient id="beam" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#fff6c8" stop-opacity="0.32"/><stop offset="1" stop-color="#fff6c8" stop-opacity="0"/></linearGradient></defs>
+  <g><animateTransform attributeName="transform" type="rotate" values="-14 600 360;14 600 360;-14 600 360" dur="8s" repeatCount="indefinite"/><path d="M560 360 L380 0 H820 L640 360 Z" fill="url(#beam)"/></g>
+  <g fill="#fff6c8"><circle cx="420" cy="300" r="2"><animate attributeName="cy" values="320;40" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="7s" repeatCount="indefinite"/></circle><circle cx="520" cy="320" r="1.6"><animate attributeName="cy" values="340;60" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="9s" repeatCount="indefinite"/></circle><circle cx="700" cy="310" r="2"><animate attributeName="cy" values="330;30" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="8s" repeatCount="indefinite"/></circle><circle cx="790" cy="330" r="1.5"><animate attributeName="cy" values="350;70" dur="6s" repeatCount="indefinite"/></circle><circle cx="640" cy="340" r="1.8"><animate attributeName="cy" values="350;50" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="10s" repeatCount="indefinite"/></circle></g>
+  <g stroke="#fff" stroke-opacity="0.25" stroke-width="1.2" fill="none"><path d="M1200 0 L1090 70 L1040 66 M1090 70 L1070 130 M1090 70 L1130 110 M1060 68 L1050 40"/></g>
   <!-- compass tape -->
   <g clip-path="url(#tape)" font-family="'Courier New',monospace" font-size="17" fill="#d7ffe0" text-anchor="middle">
     <g><animateTransform attributeName="transform" type="translate" values="0 0;-360 0" dur="12s" repeatCount="indefinite"/>
@@ -39,6 +44,11 @@
     <rect x="1160" y="32" width="30" height="16" fill="none" stroke="#f1fff3" stroke-width="2"/><rect x="1163" y="35" width="19" height="10" fill="#7CFF9B"><animate attributeName="width" values="22;19;22" dur="6s" repeatCount="indefinite"/></rect>
   </g>
 
+  <g font-family="'Courier New',monospace" font-size="15" fill="#f1fff3">
+    <text x="46" y="84" opacity="0">ARCHER [HS] TANGO 1<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.38;0.4;0.7;0.8" dur="8s" repeatCount="indefinite"/></text>
+    <text x="46" y="104" opacity="0" fill="#7CFF9B">+100 HEADSHOT<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.4;0.42;0.7;0.8" dur="8s" repeatCount="indefinite"/></text>
+    <text x="46" y="124" fill="#9fb8a4">SIGNAL  ||||| LIVE</text>
+  </g>
   <!-- radar -->
   <g transform="translate(110 262)" filter="url(#glow)">
     <circle r="62" fill="#04140a" fill-opacity="0.65" stroke="#7CFF9B" stroke-width="2"/>
@@ -52,7 +62,8 @@
 
   <!-- ammo and health -->
   <g font-family="'Courier New',monospace" fill="#f1fff3" text-anchor="end" filter="url(#glow)">
-    <text x="1160" y="300" font-size="58" font-weight="700">30<tspan font-size="30" fill="#9fb8a4"> / 120</tspan></text>
+    <text x="1160" y="300" font-size="58" font-weight="700">30<tspan font-size="30" fill="#9fb8a4"> / 120</tspan><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.36;0.37;1" dur="8s" repeatCount="indefinite"/></text>
+    <text x="1160" y="300" font-size="58" font-weight="700" opacity="0">29<tspan font-size="30" fill="#9fb8a4"> / 120</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.36;0.37;1" dur="8s" repeatCount="indefinite"/></text>
     <rect x="900" y="316" width="260" height="10" fill="none" stroke="#f1fff3"/><rect x="902" y="318" width="214" height="6" fill="#7CFF9B"><animate attributeName="width" values="256;214;256" dur="7s" repeatCount="indefinite"/></rect>
     <text x="1160" y="344" font-size="15" fill="#9fb8a4">HEALTH 84</text>
   </g>
@@ -74,6 +85,14 @@
     <animateTransform attributeName="transform" additive="sum" type="translate" values="0 0;4 -3;-3 3;0 0" dur="4s" repeatCount="indefinite"/>
   </g>
 
+  <!-- enemy tag -->
+  <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2;0.24;0.38;0.4" dur="8s" repeatCount="indefinite"/>
+    <g transform="translate(790 186)" fill="#050605"><circle cy="-34" r="11"/><path d="M-20 -22 H20 L26 40 H-26 Z"/><path d="M-20 -18 l-14 38 M20 -18 l16 30" stroke="#050605" stroke-width="9" stroke-linecap="round"/></g>
+    <g stroke="#ef4444" stroke-width="3" fill="none" filter="url(#glow)"><path d="M748 134 h-16 v16 M832 134 h16 v16 M748 236 h-16 v-16 M832 236 h16 v-16"/></g>
+    <text x="790" y="124" font-family="'Courier New',monospace" font-size="16" fill="#ef4444" text-anchor="middle" filter="url(#glow)">TANGO  24m</text>
+  </g>
+  <path d="M760 360 L792 150" stroke="#ffe9a8" stroke-width="3" opacity="0" filter="url(#glow)"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.36;0.37;0.4;1" dur="8s" repeatCount="indefinite"/></path>
+  <rect width="1200" height="360" rx="14" fill="#ffb347" opacity="0"><animate attributeName="opacity" values="0;0;0.28;0;0" keyTimes="0;0.36;0.37;0.42;1" dur="8s" repeatCount="indefinite"/></rect>
   <!-- glitch title -->
   <g font-family="'Courier New',monospace" font-weight="700" text-anchor="middle">
     <text x="600" y="268" font-size="46" fill="#22d3ee" opacity="0.8" letter-spacing="8">BODYCAM<animate attributeName="x" values="598;598;603;596;598;598" keyTimes="0;0.7;0.72;0.75;0.77;1" dur="3s" repeatCount="indefinite"/></text>
