@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/MaxonT/MyProfile"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=The+Archer;I+love+publishing+repos;I+share+what+I+like+and+think+might+help;Limited+skills%2C+but+very+active;A+new+update+every+3+days;Bodycam+is+my+favorite+FPS;Night+5+survived+again;Stars+and+follows+make+my+day" alt="Typing intro"></a>
+<a href="https://github.com/MaxonT/MyProfile"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=The+Archer;I+love+publishing+repos;I+share+what+I+like+and+think+might+help;Limited+skills%2C+but+very+active;A+new+update+every+3+days;Night+5+survived+again;Stars+and+follows+make+my+day" alt="Typing intro"></a>
 
 ![Focus](https://img.shields.io/badge/Focus-AI%20Tools-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Building-22C55E?style=for-the-badge)
@@ -27,13 +27,12 @@ If anything here is useful to you, please leave a ⭐ on the repo and [follow me
 
 ## 🎮 Off duty
 
-![Favorite FPS](https://img.shields.io/badge/Favorite%20FPS-Bodycam-ef4444?style=for-the-badge&logo=steam&logoColor=white)
 ![Horror](https://img.shields.io/badge/Horror%20pick-FNAF-f59e0b?style=for-the-badge)
 ![Night](https://img.shields.io/badge/Night%205-survived-22c55e?style=for-the-badge)
 
-**Bodycam is my favorite FPS game.** The tense, realistic bodycam look is hard to beat.
+<sub><i>3 AM and the hallway hums. A door that was shut a minute ago is open now, light leaking out like it has somewhere to be. Someone is standing in it, or maybe I am the one standing and the corridor is what moves. Nothing in the footage explains itself. Neither do I. The build is still green though.</i></sub>
 
-<p align="center"><img src="assets/bodycam-corridor.svg" width="100%" alt="Bodycam footage of a dim corridor"></p>
+<p align="center"><img src="assets/corridor.svg" width="100%" alt="A figure standing in a lit doorway at the end of a dark corridor"></p>
 
 And because debugging at 3 AM feels exactly like surviving a night shift, here is a night shift scene I drew:
 

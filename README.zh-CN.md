@@ -19,12 +19,11 @@
 
 ## 🎮 下班时间
 
-![最爱 FPS](https://img.shields.io/badge/%E6%9C%80%E7%88%B1%20FPS-Bodycam-ef4444?style=for-the-badge&logo=steam&logoColor=white)
 ![FNAF](https://img.shields.io/badge/%E6%81%90%E6%80%96%E6%B8%B8%E6%88%8F-FNAF-f59e0b?style=for-the-badge)
 
-**Bodycam 是我最喜欢的 FPS 游戏。**
+<sub><i>凌晨三点,走廊在嗡嗡响。一分钟前还关着的门开了,光漏出来,像赶着去哪里。有人站在光里,或者站着的是我,动的是走廊。画面从不解释自己,我也是。不过构建还是绿的。</i></sub>
 
-<p align="center"><img src="assets/bodycam-corridor.svg" width="100%" alt="Bodycam 风格画面"></p>
+<p align="center"><img src="assets/corridor.svg" width="100%" alt="走廊尽头门光中的人影"></p>
 
 凌晨三点调 bug 就像在熬 FNAF 的夜班,所以画了一张夜班保安室:
 
