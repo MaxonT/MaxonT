@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="The Archer" width="100%"></p>
+<p align="center"><img src="assets/banner-archer.svg" alt="The Archer" width="100%"></p>
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 **Bodycam 是我最喜欢的 FPS 游戏。**
 
-<p align="center"><img src="assets/bodycam.svg" width="100%" alt="Bodycam 风格画面"></p>
+<p align="center"><img src="assets/bodycam-hud.svg" width="100%" alt="Bodycam 风格画面"></p>
 
 凌晨三点调 bug 就像在熬 FNAF 的夜班,所以做了几张 FNAF 风格的搞怪 meme:
 
