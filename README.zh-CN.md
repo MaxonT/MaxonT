@@ -29,7 +29,7 @@
 
 <p align="center"><img src="assets/fnaf-sketch.svg" width="100%" alt="深夜保安室"></p>
 
-<p align="center"><img src="assets/workflow.svg" width="100%" alt="拆解,系统设计,AI 构建,评估,发布"></p>
+<p align="center"><img src="assets/workflow-sketch.svg" width="100%" alt="拆解,系统设计,AI 构建,评估,发布"></p>
 
 ## 🔥 最近在做的项目
 
