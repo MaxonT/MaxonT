@@ -7,6 +7,8 @@
 ![Vanderbilt](https://img.shields.io/badge/Vanderbilt-Computer%20Science-866D4B?style=for-the-badge&logo=academia&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-AI%20Tools-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Building-22C55E?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Recent%20projects-5-blueviolet?style=for-the-badge)
+![Updated](https://img.shields.io/badge/updated-2026--10--13-brightgreen?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/MaxonT?style=for-the-badge&logo=github&color=0EA5E9)
 ![Views](https://komarev.com/ghpvc/?username=MaxonT&style=for-the-badge&color=F472B6&label=PROFILE+VIEWS)
 
@@ -26,17 +28,48 @@ My name is Tiger Yang, a Computer Science student at Vanderbilt University. I li
 
 <p align="center"><img src="assets/workflow.svg" width="100%" alt="Decompose, system design, build with AI, evaluate, ship and learn"></p>
 
-## 🔥 Recent work
+## 📑 Contents
 
-| | Project | What it does | Stack |
-|:-:|:--|:--|:--|
-| 🧾 | **[TRACES.md](https://github.com/MaxonT/TRACES.md)** | AGENTS.md, but for what agents did. A simple, open format (plus a stdlib CLI) for recording every tool call and result, failures included, so agent errors can be replayed and analyzed. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Spec](https://img.shields.io/badge/open%20spec-2dd4bf) |
-| 🪞 | **[existence-trace](https://github.com/MaxonT/existence-trace)** | A self-improving personal state system. An AI agent reads your journal through emotion (PAD), security/hope and growth lenses, asks for feedback, and turns it into rules. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![stdlib](https://img.shields.io/badge/stdlib%20only-22c55e) |
-| 🗂️ | **[awesome-agent-workflows](https://github.com/MaxonT/awesome-agent-workflows)** | A curated, star-ranked catalog of AI agent frameworks, coding-agent harnesses and workflow platforms, in English and 中文, auto-refreshed. | ![Awesome](https://img.shields.io/badge/awesome%20list-fc60a8) ![Bilingual](https://img.shields.io/badge/EN%20%7C%20%E4%B8%AD%E6%96%87-f59e0b) |
-| 📚 | **[QuizAll](https://github.com/MaxonT/quizall)** | Turn study materials into a learning plan, practice quizzes, and review notes. | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| 🧠 | **[Promptly](https://github.com/MaxonT/promptly)** | Rewrite a rough request into a clearer AI prompt while preserving its intent. | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| 🗓️ | **[MeetMesh](https://github.com/MaxonT/MeetMesh)** | A When2Meet-style scheduling mesh: share a link, let everyone paint their availability, and surface the best slots. | ![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| 💬 | **[SocialMax prototype](https://github.com/MaxonT/tweeter_prototype)** | A sleek social-app UI demo built to explore layout, design and interaction. | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+- [🏆 Latest Projects](#latest)
+- [🤖 Agents and Traces](#sec-1) · 3
+- [🎓 Learning and Productivity](#sec-2) · 2
+- [🧪 Currently exploring](#exploring)
+- [🧰 Tech stack](#stack) · [📊 Stats](#stats) · [🌍 Connect](#connect)
+
+<a id="latest"></a>
+
+## 🏆 Latest Projects
+
+Ranked by most recent activity.
+
+| # | Project | ⭐ Stars | Language | Updated | Description |
+|:-:|:--|--:|:-:|:-:|:--|
+| 1 | [**MaxonT/TRACES.md**](https://github.com/MaxonT/TRACES.md) | 1 | Python | 2026-10-13 | AGENTS.md, but for what agents did. An open format and stdlib CLI that records every tool call and result, failures included. |
+| 2 | [**MaxonT/existence-trace**](https://github.com/MaxonT/existence-trace) | 2 | Python | 2026-10-12 | A self-improving personal state system: an AI agent reads your journal through emotion, security/hope and growth lenses, then turns your feedback into rules. |
+| 3 | [**MaxonT/tweeter_prototype**](https://github.com/MaxonT/tweeter_prototype) | 6 | JavaScript | 2026-10-12 | A sleek SocialMax UI demo built to explore design, layout and interaction. |
+| 4 | [**MaxonT/awesome-agent-workflows**](https://github.com/MaxonT/awesome-agent-workflows) | 1 | Markdown | 2026-10-10 | A curated, star-ranked catalog of agent frameworks, coding-agent harnesses and workflow platforms, in English and 中文, auto-refreshed. |
+| 5 | [**MaxonT/MeetMesh**](https://github.com/MaxonT/MeetMesh) | 1 | TypeScript | 2026-10-03 | A When2Meet-style scheduling mesh: share a link, paint availability, and surface the best slots. |
+
+<a id="sec-1"></a>
+
+## 🤖 Agents and Traces
+
+| # | Project | Language | Updated | Description |
+|:-:|:--|:-:|:-:|:--|
+| 1 | [**TRACES.md**](https://github.com/MaxonT/TRACES.md) | Python | 2026-10-13 | A flight recorder for agents. One plain append-only file per task, so errors can be replayed and agents can improve. |
+| 2 | [**existence-trace**](https://github.com/MaxonT/existence-trace) | Python | 2026-10-12 | Journal in, feedback loop, rules out. Python standard library only. |
+| 3 | [**awesome-agent-workflows**](https://github.com/MaxonT/awesome-agent-workflows) | Markdown | 2026-10-10 | Know which agent projects are worth your time. |
+
+<a id="sec-2"></a>
+
+## 🎓 Learning and Productivity
+
+| # | Project | Language | Updated | Description |
+|:-:|:--|:-:|:-:|:--|
+| 1 | [**MeetMesh**](https://github.com/MaxonT/MeetMesh) | TypeScript | 2026-10-03 | Group scheduling without the back and forth. |
+| 2 | [**learn_html_workshop**](https://github.com/MaxonT/learn_html_workshop) | HTML | 2026-03-09 | A hands-on workshop for building a modern portfolio site with only HTML and CSS. |
+
+<a id="exploring"></a>
 
 <details>
 <summary>🧪 Currently exploring (click to open)</summary>
@@ -52,6 +85,8 @@ My name is Tiger Yang, a Computer Science student at Vanderbilt University. I li
 
 <img src="assets/divider.svg" width="100%" alt="">
 
+<a id="stack"></a>
+
 ## 🧰 Tech stack
 
 <p align="center">
@@ -63,6 +98,8 @@ My name is Tiger Yang, a Computer Science student at Vanderbilt University. I li
 ![Data](https://img.shields.io/badge/Data-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-LangChain%20%7C%20Claude%20Code%20%7C%20Prompting%20%7C%20Evals-8B5CF6?style=flat-square)
 ![Habits](https://img.shields.io/badge/Habits-Small%20commits%20%7C%20Open%20specs%20%7C%20Stdlib%20first-14B8A6?style=flat-square)
+
+<a id="stats"></a>
 
 ## 📊 GitHub stats
 
@@ -76,6 +113,8 @@ My name is Tiger Yang, a Computer Science student at Vanderbilt University. I li
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxonT&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution activity graph">
 </p>
+
+<a id="connect"></a>
 
 ## 🌍 Let's connect
 

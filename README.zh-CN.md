@@ -22,15 +22,13 @@
 
 ## 🔥 最近在做的项目
 
-| | 项目 | 做什么 |
-|:-:|:--|:--|
-| 🧾 | **[TRACES.md](https://github.com/MaxonT/TRACES.md)** | 给 agent 用的“行为记录”开放格式,类似 AGENTS.md,但记录的是 agent 实际做了什么,失败也如实记录,方便复盘和改进。 |
-| 🪞 | **[existence-trace](https://github.com/MaxonT/existence-trace)** | 会自我改进的个人状态系统:AI agent 从情绪(PAD)、安全/希望、成长三个角度读日记,征求你的反馈并转成规则。 |
-| 🗂️ | **[awesome-agent-workflows](https://github.com/MaxonT/awesome-agent-workflows)** | 按 star 排序的 AI agent 框架、编程 agent 和工作流平台精选清单,中英双语,自动刷新。 |
-| 📚 | **[QuizAll](https://github.com/MaxonT/quizall)** | 把学习材料变成学习计划、练习题和复习笔记。 |
-| 🧠 | **[Promptly](https://github.com/MaxonT/promptly)** | 把一句粗糙的需求改写成更清晰的 AI prompt,同时保留原意。 |
-| 🗓️ | **[MeetMesh](https://github.com/MaxonT/MeetMesh)** | 类似 When2Meet 的排期工具,分享链接,大家涂抹空闲时间,自动找出最佳时段。 |
-| 💬 | **[SocialMax prototype](https://github.com/MaxonT/tweeter_prototype)** | 社交应用界面原型,用来探索布局和交互。 |
+| # | 项目 | 语言 | 更新 | 做什么 |
+|:-:|:--|:-:|:-:|:--|
+| 1 | **[TRACES.md](https://github.com/MaxonT/TRACES.md)** | Python | 2026-10-13 | 给 agent 用的行为记录开放格式,失败也如实记录,方便复盘和改进。 |
+| 2 | **[existence-trace](https://github.com/MaxonT/existence-trace)** | Python | 2026-10-12 | 会自我改进的个人状态系统:AI 读日记,征求反馈,转成规则。 |
+| 3 | **[tweeter_prototype](https://github.com/MaxonT/tweeter_prototype)** | JavaScript | 2026-10-12 | SocialMax 社交应用界面原型。 |
+| 4 | **[awesome-agent-workflows](https://github.com/MaxonT/awesome-agent-workflows)** | Markdown | 2026-10-10 | 按 star 排序的 agent 项目精选清单,中英双语,自动刷新。 |
+| 5 | **[MeetMesh](https://github.com/MaxonT/MeetMesh)** | TypeScript | 2026-10-03 | 类似 When2Meet 的排期工具。 |
 
 ## 🧰 技术栈
 
