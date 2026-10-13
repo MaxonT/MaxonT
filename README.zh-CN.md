@@ -17,26 +17,6 @@
 
 如果这里的东西对你有用,请给仓库点个 ⭐,也欢迎 [关注我](https://github.com/MaxonT?tab=followers),这对我是很大的鼓励。
 
-## 🎮 下班时间
-
-![最爱 FPS](https://img.shields.io/badge/%E6%9C%80%E7%88%B1%20FPS-Bodycam-ef4444?style=for-the-badge&logo=steam&logoColor=white)
-![FNAF](https://img.shields.io/badge/%E6%81%90%E6%80%96%E6%B8%B8%E6%88%8F-FNAF-f59e0b?style=for-the-badge)
-
-**Bodycam 是我最喜欢的 FPS 游戏。**
-
-<p align="center"><a href="https://store.steampowered.com/app/2406770/Bodycam/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2406770/header.jpg" width="70%" alt="Bodycam on Steam"></a></p>
-<p align="center"><sub>Bodycam on Steam. Art belongs to the developers.</sub></p>
-
-凌晨三点调 bug 就像在熬 FNAF 的夜班,所以放上 FNAF 系列:
-
-<p align="center">
-  <a href="https://store.steampowered.com/app/319510/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/319510/header.jpg" width="24%" alt="Five Nights at Freddy's"></a>
-  <a href="https://store.steampowered.com/app/332800/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/332800/header.jpg" width="24%" alt="Five Nights at Freddy's 2"></a>
-  <a href="https://store.steampowered.com/app/354140/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/354140/header.jpg" width="24%" alt="Five Nights at Freddy's 3"></a>
-  <a href="https://store.steampowered.com/app/388090/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/388090/header.jpg" width="24%" alt="Five Nights at Freddy's 4"></a>
-</p>
-<p align="center"><sub>FNAF 1 to 4 on Steam. Art belongs to Scott Cawthon.</sub></p>
-
 <p align="center"><img src="assets/workflow.svg" width="100%" alt="拆解,系统设计,AI 构建,评估,发布"></p>
 
 ## 🔥 最近在做的项目

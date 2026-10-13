@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/MaxonT/MyProfile"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=The+Archer;I+love+publishing+repos;I+share+what+I+like+and+think+might+help;Limited+skills%2C+but+very+active;A+new+update+every+3+days;Bodycam+is+my+favorite+FPS;Night+5+survived+again;Stars+and+follows+make+my+day" alt="Typing intro"></a>
+<a href="https://github.com/MaxonT/MyProfile"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=The+Archer;I+love+publishing+repos;I+share+what+I+like+and+think+might+help;Limited+skills%2C+but+very+active;A+new+update+every+3+days;Stars+and+follows+make+my+day" alt="Typing intro"></a>
 
 ![Focus](https://img.shields.io/badge/Focus-AI%20Tools-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Building-22C55E?style=for-the-badge)
@@ -24,27 +24,6 @@
 I love publishing repos. Most of what I post is something I like and think might help someone else, so I put it out there. My technical skills are limited, but I am very active, and I push an update roughly every 3 days.
 
 If anything here is useful to you, please leave a ⭐ on the repo and [follow me](https://github.com/MaxonT?tab=followers). It really keeps me going.
-
-## 🎮 Off duty
-
-![Favorite FPS](https://img.shields.io/badge/Favorite%20FPS-Bodycam-ef4444?style=for-the-badge&logo=steam&logoColor=white)
-![Horror](https://img.shields.io/badge/Horror%20pick-FNAF-f59e0b?style=for-the-badge)
-![Night](https://img.shields.io/badge/Night%205-survived-22c55e?style=for-the-badge)
-
-**Bodycam is my favorite FPS game.** The tense, realistic bodycam look is hard to beat.
-
-<p align="center"><a href="https://store.steampowered.com/app/2406770/Bodycam/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2406770/header.jpg" width="70%" alt="Bodycam on Steam"></a></p>
-<p align="center"><sub>Bodycam on Steam. Art belongs to the developers.</sub></p>
-
-And because debugging at 3 AM feels exactly like surviving a night shift, here is the FNAF series:
-
-<p align="center">
-  <a href="https://store.steampowered.com/app/319510/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/319510/header.jpg" width="24%" alt="Five Nights at Freddy's"></a>
-  <a href="https://store.steampowered.com/app/332800/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/332800/header.jpg" width="24%" alt="Five Nights at Freddy's 2"></a>
-  <a href="https://store.steampowered.com/app/354140/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/354140/header.jpg" width="24%" alt="Five Nights at Freddy's 3"></a>
-  <a href="https://store.steampowered.com/app/388090/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/388090/header.jpg" width="24%" alt="Five Nights at Freddy's 4"></a>
-</p>
-<p align="center"><sub>FNAF 1 to 4 on Steam. Art belongs to Scott Cawthon.</sub></p>
 
 <p align="center"><img src="assets/workflow.svg" width="100%" alt="Decompose, system design, build with AI, evaluate, ship and learn"></p>
 
