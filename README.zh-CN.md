@@ -13,9 +13,22 @@
 
 ## 🏹 关于这个主页
 
-我喜欢发布 repo。发出来的大多是我自己喜欢、也觉得可能对别人有帮助的东西。我的技术能力有限,但我很积极,大约每 2 天更新一次。
+我喜欢发布 repo。发出来的大多是我自己喜欢、也觉得可能对别人有帮助的东西。我的技术能力有限,但我很积极,大约每 3 天更新一次。
 
 如果这里的东西对你有用,请给仓库点个 ⭐,也欢迎 [关注我](https://github.com/MaxonT?tab=followers),这对我是很大的鼓励。
+
+## 🎮 下班时间
+
+![最爱 FPS](https://img.shields.io/badge/%E6%9C%80%E7%88%B1%20FPS-Bodycam-ef4444?style=for-the-badge&logo=steam&logoColor=white)
+![FNAF](https://img.shields.io/badge/%E6%81%90%E6%80%96%E6%B8%B8%E6%88%8F-FNAF-f59e0b?style=for-the-badge)
+
+**Bodycam 是我最喜欢的 FPS 游戏。**
+
+<p align="center"><img src="assets/bodycam.svg" width="100%" alt="Bodycam 风格画面"></p>
+
+凌晨三点调 bug 就像在熬 FNAF 的夜班,所以做了几张 FNAF 风格的搞怪 meme:
+
+<p align="center"><img src="assets/fnaf-memes.svg" width="100%" alt="FNAF 风格 meme"></p>
 
 <p align="center"><img src="assets/workflow.svg" width="100%" alt="拆解,系统设计,AI 构建,评估,发布"></p>
 

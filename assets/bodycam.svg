@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Bodycam style HUD: my favorite FPS game">
+  <defs>
+    <filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope="0.18"/></feComponentTransfer></filter>
+    <radialGradient id="vig" cx="0.5" cy="0.5" r="0.75"><stop offset="0.45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></radialGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" opacity="0.22"/></pattern>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a2f2a"/><stop offset="0.5" stop-color="#3a4038"/><stop offset="1" stop-color="#1f241f"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="14" fill="url(#wall)"/>
+  <g stroke="#1a1d1a" stroke-width="2" opacity="0.7">
+    <path d="M0 210 H1200 M0 120 H1200"/>
+    <path d="M200 0 V300 M520 0 V300 M860 0 V300"/>
+  </g>
+  <g fill="#0d0f0d" opacity="0.8">
+    <circle cx="260" cy="95" r="6"/><circle cx="300" cy="160" r="4"/><circle cx="905" cy="80" r="5"/><circle cx="960" cy="190" r="7"/>
+  </g>
+  <g stroke="#0d0f0d" stroke-width="1.5" opacity="0.8">
+    <path d="M260 95 l-14 -9 M260 95 l12 -11 M260 95 l4 15 M960 190 l-16 5 M960 190 l12 12 M960 190 l3 -16"/>
+  </g>
+  <rect width="1200" height="300" rx="14" filter="url(#grain)"/>
+  <rect width="1200" height="300" rx="14" fill="url(#scan)"/>
+  <rect width="1200" height="300" rx="14" fill="url(#vig)"/>
+  <g font-family="'Courier New',monospace" fill="#e8f0e8">
+    <circle cx="48" cy="44" r="9" fill="#ef4444"><animate attributeName="opacity" values="1;0.1;1" dur="1.4s" repeatCount="indefinite"/></circle>
+    <text x="66" y="51" font-size="22" font-weight="700" letter-spacing="3">REC</text>
+    <text x="1152" y="51" font-size="20" text-anchor="end">BODYCAM  01  |  BAT 87%</text>
+    <text x="48" y="272" font-size="20">2026-10-13  03:00:00</text>
+    <text x="1152" y="272" font-size="20" text-anchor="end">CAM-3  FPS ONLY</text>
+  </g>
+  <g stroke="#e8f0e8" stroke-width="2.5" fill="none">
+    <circle cx="600" cy="150" r="26"/>
+    <path d="M600 108 V130 M600 170 V192 M558 150 H580 M620 150 H642"/>
+    <circle cx="600" cy="150" r="2" fill="#ef4444" stroke="none"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;3 -2;-2 2;0 0" dur="5s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="'Courier New',monospace" text-anchor="middle">
+    <text x="600" y="232" font-size="30" font-weight="700" fill="#f5f5f5" letter-spacing="2">BODYCAM = MY FAVORITE FPS</text>
+    <text x="600" y="82" font-size="18" fill="#cbd5cb">Tense. Realistic. Every shot counts.</text>
+  </g>
+  <rect x="1.5" y="1.5" width="1197" height="297" rx="13" fill="none" stroke="#ef4444" stroke-opacity="0.5" stroke-width="2"/>
+</svg>
