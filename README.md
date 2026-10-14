@@ -25,6 +25,20 @@ I love publishing repos. Most of what I post is something I like and think might
 
 If anything here is useful to you, please leave a ⭐ on the repo and [follow me](https://github.com/MaxonT?tab=followers). It really keeps me going.
 
+<a id="stack"></a>
+
+## 🧰 Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,mongodb,java,cpp,html,css,git,github,vscode,linux,docker&perline=8" alt="Skill icons">
+</p>
+
+![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20TypeScript%20%7C%20Java%20%7C%20C%2B%2B-3B82F6?style=flat-square)
+![Web](https://img.shields.io/badge/Web-React%20%7C%20Node.js%20%7C%20Express%20%7C%20HTML%20%7C%20CSS-F97316?style=flat-square)
+![Data](https://img.shields.io/badge/Data-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AI](https://img.shields.io/badge/AI-LangChain%20%7C%20Claude%20Code%20%7C%20Prompting%20%7C%20Evals-8B5CF6?style=flat-square)
+![Habits](https://img.shields.io/badge/Habits-Small%20commits%20%7C%20Open%20specs%20%7C%20Stdlib%20first-14B8A6?style=flat-square)
+
 ## 🎮 Off duty
 
 ![Horror](https://img.shields.io/badge/Horror%20pick-FNAF-f59e0b?style=for-the-badge)
@@ -94,20 +108,6 @@ Ranked by most recent activity.
 </details>
 
 <img src="assets/divider.svg" width="100%" alt="">
-
-<a id="stack"></a>
-
-## 🧰 Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,mongodb,java,cpp,html,css,git,github,vscode,linux,docker&perline=8" alt="Skill icons">
-</p>
-
-![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20TypeScript%20%7C%20Java%20%7C%20C%2B%2B-3B82F6?style=flat-square)
-![Web](https://img.shields.io/badge/Web-React%20%7C%20Node.js%20%7C%20Express%20%7C%20HTML%20%7C%20CSS-F97316?style=flat-square)
-![Data](https://img.shields.io/badge/Data-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AI](https://img.shields.io/badge/AI-LangChain%20%7C%20Claude%20Code%20%7C%20Prompting%20%7C%20Evals-8B5CF6?style=flat-square)
-![Habits](https://img.shields.io/badge/Habits-Small%20commits%20%7C%20Open%20specs%20%7C%20Stdlib%20first-14B8A6?style=flat-square)
 
 <a id="stats"></a>
 
