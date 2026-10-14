@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner-notes.svg" alt="The Archer" width="100%"></p>
+<p align="center"><img src="assets/banner-ming.svg" alt="Ming Yang" width="100%"></p>
 
 <div align="center">
 
