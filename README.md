@@ -39,6 +39,21 @@ If anything here is useful to you, please leave a ⭐ on the repo and [follow me
 ![AI](https://img.shields.io/badge/AI-LangChain%20%7C%20Claude%20Code%20%7C%20Prompting%20%7C%20Evals-8B5CF6?style=flat-square)
 ![Habits](https://img.shields.io/badge/Habits-Small%20commits%20%7C%20Open%20specs%20%7C%20Stdlib%20first-14B8A6?style=flat-square)
 
+<a id="stats"></a>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-liard-ten-90.vercel.app/api?username=MaxonT&show_icons=true&theme=radical" alt="GitHub stats">
+  <img height="180" src="https://github-readme-stats-liard-ten-90.vercel.app/api/top-langs/?username=MaxonT&layout=compact&theme=radical" alt="Top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MaxonT&theme=radical&hide_border=true" alt="GitHub streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxonT&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution activity graph">
+</p>
+
 ## 🎮 Off duty
 
 ![Horror](https://img.shields.io/badge/Horror%20pick-FNAF-f59e0b?style=for-the-badge)
@@ -108,21 +123,6 @@ Ranked by most recent activity.
 </details>
 
 <img src="assets/divider.svg" width="100%" alt="">
-
-<a id="stats"></a>
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-liard-ten-90.vercel.app/api?username=MaxonT&show_icons=true&theme=radical" alt="GitHub stats">
-  <img height="180" src="https://github-readme-stats-liard-ten-90.vercel.app/api/top-langs/?username=MaxonT&layout=compact&theme=radical" alt="Top languages">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MaxonT&theme=radical&hide_border=true" alt="GitHub streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxonT&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution activity graph">
-</p>
 
 <a id="connect"></a>
 
