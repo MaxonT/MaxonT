@@ -17,6 +17,12 @@
 
 如果这里的东西对你有用,请给仓库点个 ⭐,也欢迎 [关注我](https://github.com/MaxonT?tab=followers),这对我是很大的鼓励。
 
+## 🧰 技术栈
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,mongodb,java,cpp,html,css,git,github,vscode,linux,docker&perline=8" alt="Skill icons">
+</p>
+
 ## 🎮 下班时间
 
 ![FNAF](https://img.shields.io/badge/%E6%81%90%E6%80%96%E6%B8%B8%E6%88%8F-FNAF-f59e0b?style=for-the-badge)
@@ -39,12 +45,6 @@
 | 2 | **[existence-trace](https://github.com/MaxonT/existence-trace)** | Python | 2026-10-12 | 会自我改进的个人状态系统:AI 读日记,征求反馈,转成规则。 |
 | 3 | **[tweeter_prototype](https://github.com/MaxonT/tweeter_prototype)** | JavaScript | 2026-10-12 | SocialMax 社交应用界面原型。 |
 | 4 | **[awesome-agent-workflows](https://github.com/MaxonT/awesome-agent-workflows)** | Markdown | 2026-10-10 | 按 star 排序的 agent 项目精选清单,中英双语,自动刷新。 |
-
-## 🧰 技术栈
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,mongodb,java,cpp,html,css,git,github,vscode,linux,docker&perline=8" alt="Skill icons">
-</p>
 
 ## 🌍 联系我
 
