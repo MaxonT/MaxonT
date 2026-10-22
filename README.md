@@ -51,7 +51,7 @@ Three research style systems I build and maintain. Click a card to open the repo
 
 ## 🏆 Latest projects
 
-Refreshed automatically twice a day, star counts are live.
+Refreshed automatically every hour, star counts are live.
 
 <!-- LATEST:START -->
 | Project | ⭐ | Updated | What it is |
