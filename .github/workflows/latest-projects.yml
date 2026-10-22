@@ -16,14 +16,18 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Rewrite Latest projects table
+      - name: Rewrite Latest projects table and activity chart
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/update_latest.py
+        run: |
+          python3 scripts/update_latest.py
+          python3 scripts/update_activity.py
       - name: Commit if changed
         run: |
+          git add -N assets/activity.svg
           if git diff --quiet; then echo "No changes"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git commit -am "chore: refresh latest projects"
+          git add README.md README.zh-CN.md assets/activity.svg
+          git commit -m "chore: refresh latest projects"
           git push
