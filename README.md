@@ -51,7 +51,7 @@ If anything here is useful to you, please leave a ⭐ on the repo and [follow me
   <img src="https://streak-stats.demolab.com?user=MaxonT&theme=radical&hide_border=true" alt="GitHub streak">
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxonT&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution activity graph">
+  <img src="assets/activity.svg" width="100%" alt="Contribution activity, last 30 days">
 </p>
 
 ## 🎮 Off duty
