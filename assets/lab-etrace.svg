@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" width="600" height="320" role="img" aria-label="existence-trace">
+<defs>
+<linearGradient id="bgetraceen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#161B22"/></linearGradient>
+<radialGradient id="glowetraceen" cx=".88" cy=".1" r=".7"><stop offset="0" stop-color="#A78BFA" stop-opacity=".28"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+<linearGradient id="sweepetraceen" x1="0" x2="1"><stop offset="0" stop-color="#A78BFA" stop-opacity="0"/><stop offset=".5" stop-color="#DDD6FE" stop-opacity=".9"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient>
+<clipPath id="clipetraceen"><rect width="600" height="320" rx="18"/></clipPath>
+<style>
+.swetraceen{animation:swetraceen 3.6s ease-in-out infinite}
+@keyframes swetraceen{0%{transform:translateX(-220px)}100%{transform:translateX(620px)}}
+.cuetraceen{animation:cuetraceen 1.1s steps(1) infinite}
+@keyframes cuetraceen{50%{opacity:0}}
+.puetraceen{animation:puetraceen 2.4s ease-in-out infinite;transform-origin:552px 40px}
+@keyframes puetraceen{0%,100%{opacity:.35;transform:scale(1)}50%{opacity:1;transform:scale(1.35)}}
+</style>
+</defs>
+<g clip-path="url(#clipetraceen)">
+<rect width="600" height="320" fill="url(#bgetraceen)"/>
+<rect width="600" height="320" fill="url(#glowetraceen)"/>
+<rect width="600" height="4" fill="#A78BFA"/>
+<rect class="swetraceen" y="0" width="200" height="4" fill="url(#sweepetraceen)"/>
+<text x="32" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="1.5" fill="#A78BFA">github2 · the lab</text>
+<text x="568" y="46" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="44" font-weight="700" fill="#A78BFA" fill-opacity=".14">03</text>
+<circle class="puetraceen" cx="552" cy="40" r="4" fill="#A78BFA" opacity="0"/>
+<text x="32" y="96" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="34" font-weight="800" fill="#F0F6FC">existence-trace</text>
+<text x="32" y="136" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="19" fill="#C9D1D9">Journal in.</text><text x="32" y="162" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="19" fill="#C9D1D9">Your feedback becomes rules.</text>
+<rect x="32" y="196" width="106" height="26" rx="13" fill="#A78BFA" fill-opacity=".12" stroke="#A78BFA" stroke-opacity=".45"/><text x="85" y="213.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12.5" fill="#DDD6FE">PAD emotion</text><rect x="145.6" y="196" width="136" height="26" rx="13" fill="#A78BFA" fill-opacity=".12" stroke="#A78BFA" stroke-opacity=".45"/><text x="214" y="213.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12.5" fill="#DDD6FE">security + hope</text><rect x="289.59999999999997" y="196" width="90" height="26" rx="13" fill="#A78BFA" fill-opacity=".12" stroke="#A78BFA" stroke-opacity=".45"/><text x="335" y="213.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12.5" fill="#DDD6FE">growth XP</text>
+<rect x="20" y="244" width="560" height="56" rx="10" fill="#010409" stroke="#30363D"/>
+<text x="38" y="277" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#A78BFA">$</text>
+<text x="56" y="277" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#E6EDF3">etrace validate</text>
+<rect class="cuetraceen" x="184" y="265" width="8" height="16" fill="#DDD6FE"/>
+<text x="562" y="277" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#DDD6FE">✓ all clear</text>
+<rect x=".5" y=".5" width="599" height="319" rx="18" fill="none" stroke="#A78BFA" stroke-opacity=".35"/>
+</g>
+</svg>
