@@ -67,12 +67,19 @@
 
 ## 🔥 最近在做的项目
 
-| # | 项目 | 语言 | 更新 | 做什么 |
-|:-:|:--|:-:|:-:|:--|
-| 1 | **[TRACES.md](https://github.com/MaxonT/TRACES.md)** | Python | 2026-10-13 | 给 agent 用的行为记录开放格式,失败也如实记录,方便复盘和改进。 |
-| 2 | **[existence-trace](https://github.com/MaxonT/existence-trace)** | Python | 2026-10-12 | 会自我改进的个人状态系统:AI 读日记,征求反馈,转成规则。 |
-| 3 | **[tweeter_prototype](https://github.com/MaxonT/tweeter_prototype)** | JavaScript | 2026-10-12 | SocialMax 社交应用界面原型。 |
-| 4 | **[awesome-agent-workflows](https://github.com/MaxonT/awesome-agent-workflows)** | Markdown | 2026-10-10 | 按 star 排序的 agent 项目精选清单,中英双语,自动刷新。 |
+每小时自动刷新一次，星数实时显示。
+
+<!-- LATEST:START -->
+| 项目 | ⭐ | 更新 | 做什么 |
+|:--|:-:|:-:|:--|
+| [**top-chinese-rainbow-fart**](https://github.com/MaxonT/top-chinese-rainbow-fart) | ![](https://img.shields.io/github/stars/MaxonT/top-chinese-rainbow-fart?style=flat-square&label=&color=F5C518) | 2026-10-22 | Chinese internet compliment generators, rainbow-fart plugins, meme makers and joke corpora, ranke... |
+| [**top-open-weight-coding-models**](https://github.com/MaxonT/top-open-weight-coding-models) | ![](https://img.shields.io/github/stars/MaxonT/top-open-weight-coding-models?style=flat-square&label=&color=F5C518) | 2026-10-21 | Open-weight coding and agent models plus the tools to run them locally, ranked by GitHub stars |
+| [**top-free-javascript-courses**](https://github.com/MaxonT/top-free-javascript-courses) | ![](https://img.shields.io/github/stars/MaxonT/top-free-javascript-courses?style=flat-square&label=&color=F5C518) | 2026-10-21 | Every free way to learn JavaScript, ranked by GitHub stars |
+| [**top-flying-car-open-source**](https://github.com/MaxonT/top-flying-car-open-source) | ![](https://img.shields.io/github/stars/MaxonT/top-flying-car-open-source?style=flat-square&label=&color=F5C518) | 2026-10-21 | Open-source tools for flying cars, eVTOL and drones, ranked by GitHub stars |
+| [**top-ai-agent-guardrails**](https://github.com/MaxonT/top-ai-agent-guardrails) | ![](https://img.shields.io/github/stars/MaxonT/top-ai-agent-guardrails?style=flat-square&label=&color=F5C518) | 2026-10-21 | Guardrails for AI agents: sandboxes, human-in-the-loop approval, cost limits, prompt-injection de... |
+| [**awesome-agent-workflows**](https://github.com/MaxonT/awesome-agent-workflows) | ![](https://img.shields.io/github/stars/MaxonT/awesome-agent-workflows?style=flat-square&label=&color=F5C518) | 2026-10-21 | Curated, star-ranked catalog of AI agent frameworks, coding-agent harnesses and workflow platform... |
+| [**reeta**](https://github.com/MaxonT/reeta) | ![](https://img.shields.io/github/stars/MaxonT/reeta?style=flat-square&label=&color=F5C518) | 2026-10-20 | Reeta: teach the AI student. HackTN26, Challenge #3 |
+<!-- LATEST:END -->
 
 ## ⭐ 留个 star？
 

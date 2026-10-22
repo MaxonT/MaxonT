@@ -101,14 +101,19 @@ And because debugging at 3 AM feels exactly like surviving a night shift, here i
 
 ## 🏆 Latest Projects
 
-Ranked by most recent activity.
+Refreshed automatically every hour, star counts are live.
 
-| # | Project | ⭐ Stars | Language | Updated | Description |
-|:-:|:--|--:|:-:|:-:|:--|
-| 1 | [**MaxonT/TRACES.md**](https://github.com/MaxonT/TRACES.md) | 1 | Python | 2026-10-13 | AGENTS.md, but for what agents did. An open format and stdlib CLI that records every tool call and result, failures included. |
-| 2 | [**MaxonT/existence-trace**](https://github.com/MaxonT/existence-trace) | 2 | Python | 2026-10-12 | A self-improving personal state system: an AI agent reads your journal through emotion, security/hope and growth lenses, then turns your feedback into rules. |
-| 3 | [**MaxonT/tweeter_prototype**](https://github.com/MaxonT/tweeter_prototype) | 6 | JavaScript | 2026-10-12 | A sleek SocialMax UI demo built to explore design, layout and interaction. |
-| 4 | [**MaxonT/awesome-agent-workflows**](https://github.com/MaxonT/awesome-agent-workflows) | 1 | Markdown | 2026-10-10 | A curated, star-ranked catalog of agent frameworks, coding-agent harnesses and workflow platforms, in English and 中文, auto-refreshed. |
+<!-- LATEST:START -->
+| Project | ⭐ | Updated | What it is |
+|:--|:-:|:-:|:--|
+| [**top-chinese-rainbow-fart**](https://github.com/MaxonT/top-chinese-rainbow-fart) | ![](https://img.shields.io/github/stars/MaxonT/top-chinese-rainbow-fart?style=flat-square&label=&color=F5C518) | 2026-10-22 | Chinese internet compliment generators, rainbow-fart plugins, meme makers and joke corpora, ranke... |
+| [**top-open-weight-coding-models**](https://github.com/MaxonT/top-open-weight-coding-models) | ![](https://img.shields.io/github/stars/MaxonT/top-open-weight-coding-models?style=flat-square&label=&color=F5C518) | 2026-10-21 | Open-weight coding and agent models plus the tools to run them locally, ranked by GitHub stars |
+| [**top-free-javascript-courses**](https://github.com/MaxonT/top-free-javascript-courses) | ![](https://img.shields.io/github/stars/MaxonT/top-free-javascript-courses?style=flat-square&label=&color=F5C518) | 2026-10-21 | Every free way to learn JavaScript, ranked by GitHub stars |
+| [**top-flying-car-open-source**](https://github.com/MaxonT/top-flying-car-open-source) | ![](https://img.shields.io/github/stars/MaxonT/top-flying-car-open-source?style=flat-square&label=&color=F5C518) | 2026-10-21 | Open-source tools for flying cars, eVTOL and drones, ranked by GitHub stars |
+| [**top-ai-agent-guardrails**](https://github.com/MaxonT/top-ai-agent-guardrails) | ![](https://img.shields.io/github/stars/MaxonT/top-ai-agent-guardrails?style=flat-square&label=&color=F5C518) | 2026-10-21 | Guardrails for AI agents: sandboxes, human-in-the-loop approval, cost limits, prompt-injection de... |
+| [**awesome-agent-workflows**](https://github.com/MaxonT/awesome-agent-workflows) | ![](https://img.shields.io/github/stars/MaxonT/awesome-agent-workflows?style=flat-square&label=&color=F5C518) | 2026-10-21 | Curated, star-ranked catalog of AI agent frameworks, coding-agent harnesses and workflow platform... |
+| [**reeta**](https://github.com/MaxonT/reeta) | ![](https://img.shields.io/github/stars/MaxonT/reeta?style=flat-square&label=&color=F5C518) | 2026-10-20 | Reeta: teach the AI student. HackTN26, Challenge #3 |
+<!-- LATEST:END -->
 
 <a id="exploring"></a>
 
