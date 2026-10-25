@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner-ming-yang.svg" alt="Ming Yang" width="100%"></p>
+<p align="center"><img src="assets/banner-ming-yang2.svg" alt="Ming Yang" width="100%"></p>
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 ## 🏹 关于这个主页
 
-我喜欢发布 repo。发出来的大多是我自己喜欢、也觉得可能对别人有帮助的东西。我的技术能力有限,但我很积极,大约每 3 天更新一次。
+我喜欢发布 repo。发出来的大多是我自己喜欢、也觉得可能对别人有帮助的东西。我一直很积极,大约每 3 天更新一次。
 
 如果这里的东西对你有用,请给仓库点个 ⭐,也欢迎 [关注我](https://github.com/MaxonT?tab=followers),这对我是很大的鼓励。
 
