@@ -1,8 +1,8 @@
-<p align="center"><img src="assets/banner-ming-yang.svg" alt="Ming Yang" width="100%"></p>
+<p align="center"><img src="assets/banner-ming-yang2.svg" alt="Ming Yang" width="100%"></p>
 
 <div align="center">
 
-<a href="https://github.com/MaxonT/MyProfile"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=Ming+Yang;I+love+publishing+repos;I+share+what+I+like+and+think+might+help;Limited+skills%2C+but+very+active;A+new+update+every+3+days;Night+5+survived+again;Stars+and+follows+make+my+day" alt="Typing intro"></a>
+<a href="https://github.com/MaxonT/MyProfile"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=Ming+Yang;I+love+publishing+repos;I+share+what+I+like+and+think+might+help;Always+building%2C+very+active;A+new+update+every+3+days;Night+5+survived+again;Stars+and+follows+make+my+day" alt="Typing intro"></a>
 
 ![Focus](https://img.shields.io/badge/Focus-AI%20Tools-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Building-22C55E?style=for-the-badge)
@@ -21,7 +21,7 @@
 
 ## 🏹 About this profile
 
-I love publishing repos. Most of what I post is something I like and think might help someone else, so I put it out there. My technical skills are limited, but I am very active, and I push an update roughly every 3 days.
+I love publishing repos. Most of what I post is something I like and think might help someone else, so I put it out there. I stay very active, and I push an update roughly every 3 days.
 
 If anything here is useful to you, please leave a ⭐ on the repo and [follow me](https://github.com/MaxonT?tab=followers). It really keeps me going.
 
