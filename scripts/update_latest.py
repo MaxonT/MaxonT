@@ -1,10 +1,9 @@
 """Rewrite the Latest projects table in README.md and README.zh-CN.md.
 
 Reads MaxonT's public repos from the GitHub API, keeps the most recently
-pushed ones (skipping the profile repo, forks, archived repos, the featured
-projects already shown as cards, and the auto-refreshed top-* reference
-lists, whose daily bot pushes would otherwise crowd out real work) and
-replaces the text between the LATEST markers. Stdlib only.
+pushed ones (skipping the profile repo, forks, archived repos and the
+flagship systems already shown as cards) and replaces the text between
+the LATEST markers. Stdlib only.
 
     python3 scripts/update_latest.py                  # live API
     python3 scripts/update_latest.py --from-file x.json
@@ -21,7 +20,6 @@ from pathlib import Path
 USER = "MaxonT"
 LIMIT = 7
 SKIP = {"maxont", "aisync", "traces.md", "existence-trace"}
-SKIP_PREFIXES = ("top-",)
 ROOT = Path(__file__).resolve().parents[1]
 FILES = {
     "README.md": ("Project", "Updated", "What it is"),
@@ -45,7 +43,6 @@ def pick(repos: list[dict]) -> list[dict]:
         r for r in repos
         if not r.get("private") and not r.get("fork") and not r.get("archived")
         and r["name"].lower() not in SKIP and "archived" not in r["name"].lower()
-        and not r["name"].lower().startswith(SKIP_PREFIXES)
     ]
     keep.sort(key=lambda r: r["pushed_at"], reverse=True)
     return keep[:LIMIT]
@@ -65,7 +62,7 @@ def table(repos: list[dict], cols: tuple[str, str, str]) -> str:
         n = r["name"]
         badge = f"https://img.shields.io/github/stars/{USER}/{n}?style=flat-square&label=&color=F5C518"
         rows.append(
-            f"| [{n}](https://github.com/{USER}/{n}) | ![]({badge}) "
+            f"| [**{n}**](https://github.com/{USER}/{n}) | ![]({badge}) "
             f"| {r['pushed_at'][:10]} | {clean(r.get('description'))} |"
         )
     return "\n".join(rows)

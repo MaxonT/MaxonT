@@ -18,7 +18,7 @@
 <rect width="600" height="320" fill="url(#glowtraceszh)"/>
 <rect width="600" height="4" fill="#3FB950"/>
 <rect class="swtraceszh" y="0" width="200" height="4" fill="url(#sweeptraceszh)"/>
-<text x="32" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="1.5" fill="#3FB950">开源实验</text>
+<text x="32" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="1.5" fill="#3FB950">github2 · 实验室</text>
 <text x="568" y="46" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="44" font-weight="700" fill="#3FB950" fill-opacity=".14">01</text>
 <circle class="putraceszh" cx="552" cy="40" r="4" fill="#3FB950" opacity="0"/>
 <text x="32" y="96" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="40" font-weight="800" fill="#F0F6FC">TRACES.md</text>
