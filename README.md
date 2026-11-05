@@ -27,10 +27,10 @@ I'm interested in AI agents, agent operations, and I like to help others. I'm fo
 <tr>
 <td width="210" valign="top"><img src="assets/childhood.webp" width="210" alt="Me as a kid, wiping a table"><br><sub>Before any of this had a name.</sub></td>
 <td valign="middle">
-<p>I am a first-generation student with an idealist's temperament and a realist's budget. I did not inherit a trajectory. I inherited contingencies, expectations, and an almost pathological appetite for becoming.</p>
-<p>For years fear was my reward model and approval my proxy objective. A recursion without a base case is not ambition. It is a pathology.</p>
-<p>So I am changing the policy: from fear to curiosity, from performance to compounding competence, from borrowed purposes to self-authorship. I build software, autonomous systems and Guli as experiments in sovereignty, so that thinking, choosing and creating never need permission.</p>
-<p>I expect no benevolent universe and no immunity from suffering. I choose anyway.</p>
+<p>As a first-gen with an idealist's temperament and a realist's budget, there was no trajectory to inherit. Only contingencies, expectations, and an almost pathological appetite for becoming.</p>
+<p>For years fear was the reward model and approval the proxy objective. A recursion without a base case is not ambition. It is a pathology.</p>
+<p>So the policy is changing: from fear to curiosity, from performance to compounding competence, from borrowed purposes to self-authorship. Software, autonomous systems and Guli are experiments in sovereignty, so that thinking, choosing and creating never need permission.</p>
+<p>No benevolent universe is promised, and no immunity from suffering. The choice gets made anyway.</p>
 <p>Let the world update my beliefs. It will never receive root access to my will.</p>
 </td>
 </tr>
