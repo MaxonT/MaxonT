@@ -27,11 +27,13 @@ I'm interested in AI agents, agent operations, and I like to help others. I'm fo
 <tr>
 <td width="210" valign="top"><img src="assets/childhood.webp" width="210" alt="Me as a kid, wiping a table"><br><sub>Before any of this had a name.</sub></td>
 <td valign="middle">
-<p>As a first-gen with an idealist's temperament and a realist's budget, there was no trajectory to inherit. Only contingencies, expectations, and an almost pathological appetite for becoming.</p>
-<p>For years fear was the reward model and approval the proxy objective. A recursion without a base case is not ambition. It is a pathology.</p>
-<p>So the policy is changing: from fear to curiosity, from performance to compounding competence, from borrowed purposes to self-authorship. Software, autonomous systems and Guli are experiments in sovereignty, so that thinking, choosing and creating never need permission.</p>
-<p>No benevolent universe is promised, and no immunity from suffering. The choice gets made anyway.</p>
-<p>Let the world update my beliefs. It will never receive root access to my will.</p>
+<p>First-gen by circumstance, idealist by temperament, realist by budget. No inherited playbook, just intergenerational priors, an unfortunate amount of existential debt, and a pathological appetite for becoming.</p>
+<p>For a while, fear handled the reward modeling and social approval supplied the loss function. A quite elegant optimization scheme, until the optimizer started consuming its own operator.</p>
+<p>The subsequent policy recalibration involved replacing heteronomous teleologies with epistemic sovereignty, reallocating probability mass from performative survival to curiosity-driven agency, and treating software, autonomous systems, and worldmaking as instruments of existential self-authorship.</p>
+<p>No ergodic guarantees. No benevolent universe. Still, one human attempting to bootstrap meaning out of contingency, one absurdly ambitious side quest at a time.</p>
+<p>Let the Absolute Idea unravel, its light cascading over the ruins of inherited teleologies, baptizing the unfinished self in the unbearable lucidity of becoming.</p>
+<p>Let reality update the posterior. Never let it rewrite the objective function.</p>
+<p>Know who you are, find yourself!</p>
 </td>
 </tr>
 </table>
