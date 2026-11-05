@@ -1,7 +1,5 @@
 ## 🏹 关于这个主页
 
-我对 AI agent 和 agent 运营感兴趣，也喜欢帮助别人。我现在专注于自己的创业项目 Guli。
-
 <p align="center">
   <img src="assets/childhood.webp" width="260" alt="小时候的我">
 </p>
@@ -17,6 +15,9 @@
 <p align="center"><i>认识你自己，找到你自己！</i></p>
 
 <p align="center"><img src="assets/banner-ming-yang2.svg" alt="Ming Yang" width="100%"></p>
+
+我对 AI agent 和 agent 运营感兴趣，也喜欢帮助别人。我现在专注于自己的创业项目 Guli。
+
 
 
 我喜欢发布 repo。发出来的大多是我自己喜欢、也觉得可能对别人有帮助的东西。我一直很积极,大约每 3 天更新一次。
