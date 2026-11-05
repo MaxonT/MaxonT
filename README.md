@@ -23,6 +23,18 @@
 
 I'm interested in AI agents, agent operations, and I like to help others. I'm focusing on my own startup, Guli.
 
+<table>
+<tr>
+<td width="210" valign="top"><img src="assets/childhood.webp" width="210" alt="Me as a kid, wiping a table"><br><sub>Me, a long time ago, wiping the table. Some things you just pick up and do yourself.</sub></td>
+<td valign="middle">
+<p>I never wanted to be an employee.<br>Not out of pride. I just want my days to be mine.</p>
+<p>So I build, one small step at a time. Agents, tools, a startup of my own. What I learn goes out in the open, and I like to help where I can, because that is the part I enjoy most.</p>
+<p>If I had one piece of advice about finding your own way, it would be this: stay independent. Borrow ideas freely, listen closely, then make the call yourself. You are the one who has to live with it.</p>
+<p>Walk long enough and the path shows up under your feet.</p>
+</td>
+</tr>
+</table>
+
 I love publishing repos. Most of what I post is something I like and think might help someone else, so I put it out there. I stay very active, and I push an update roughly every 3 days.
 
 If anything here is useful to you, please leave a ⭐ on the repo and [follow me](https://github.com/MaxonT?tab=followers). It really keeps me going.
