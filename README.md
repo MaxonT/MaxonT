@@ -27,10 +27,9 @@ I'm interested in AI agents, agent operations, and I like to help others. I'm fo
 <tr>
 <td width="210" valign="top"><img src="assets/childhood.webp" width="210" alt="Me as a kid, wiping a table"><br><sub>Me, a long time ago, wiping the table. Some things you just pick up and do yourself.</sub></td>
 <td valign="middle">
-<p>I turned one stubborn question into a way of living: how do you know it's really done?<br>I started by asking it of agents. Then I asked it of myself, and found I had been grading against somebody else's rubric.</p>
-<p>So I wrote my own. I build, I publish, I check the work, and I let the check decide, not the applause. That is how a student ended up building Guli.</p>
-<p>If I had one piece of advice about finding your own road, it would be this: own your definition of done. Borrow ideas, borrow tools, borrow shoulders to stand on, but never borrow the finish line. Whoever draws it is the one you work for, whatever your title says.</p>
-<p>One checked step at a time, the road becomes yours.</p>
+<p>The table is clean now. It was not clean a minute ago, and nobody can say who wiped it.<br>The boy in the photo is still wiping, or maybe he finished years ago and the table is what keeps moving.</p>
+<p>Some days I am the one standing at it. Some days it is the agents, reporting done. The question stays quiet and does not explain itself: is it really done?<br>I keep asking. I am not sure I like the answer yet.</p>
+<p>Guli is still running though.</p>
 </td>
 </tr>
 </table>
