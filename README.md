@@ -1,24 +1,23 @@
 ## 🏹 About this profile
 
-I'm interested in AI agents, agent operations, and I like to help others. I'm focusing on my own startup, Guli.
-
 <p align="center">
   <img src="assets/childhood.webp" width="260" alt="Me as a kid">
 </p>
 <p align="center"><sub><i>Before any of this had a name.</i></sub></p>
 
-<blockquote>
-<p>First-gen by circumstance, idealist by temperament, realist by budget. No inherited playbook, just intergenerational priors, an unfortunate amount of existential debt, and a pathological appetite for becoming.</p>
-<p>For a while, fear handled the reward modeling and social approval supplied the loss function. A quite elegant optimization scheme, until the optimizer started consuming its own operator.</p>
-<p>The subsequent policy recalibration involved replacing heteronomous teleologies with epistemic sovereignty, reallocating probability mass from performative survival to curiosity-driven agency, and treating software, autonomous systems, and worldmaking as instruments of existential self-authorship.</p>
-<p>No ergodic guarantees. No benevolent universe. Still, one human attempting to bootstrap meaning out of contingency, one absurdly ambitious side quest at a time.</p>
-<p>Let the Absolute Idea unravel, its light cascading over the ruins of inherited teleologies, baptizing the unfinished self in the unbearable lucidity of becoming.</p>
-<p>Let reality update the posterior. Never let it rewrite the objective function.</p>
-</blockquote>
+<p align="center"><i>First-gen by circumstance, idealist by temperament, realist by budget. No inherited playbook, just intergenerational priors, an unfortunate amount of existential debt, and a pathological appetite for becoming.</i></p>
+<p align="center"><i>For a while, fear handled the reward modeling and social approval supplied the loss function. A quite elegant optimization scheme, until the optimizer started consuming its own operator.</i></p>
+<p align="center"><i>The subsequent policy recalibration involved replacing heteronomous teleologies with epistemic sovereignty, reallocating probability mass from performative survival to curiosity-driven agency, and treating software, autonomous systems, and worldmaking as instruments of existential self-authorship.</i></p>
+<p align="center"><i>No ergodic guarantees. No benevolent universe. Still, one human attempting to bootstrap meaning out of contingency, one absurdly ambitious side quest at a time.</i></p>
+<p align="center"><i>Let the Absolute Idea unravel, its light cascading over the ruins of inherited teleologies, baptizing the unfinished self in the unbearable lucidity of becoming.</i></p>
+<p align="center"><i>Let reality update the posterior. Never let it rewrite the objective function.</i></p>
 
 <p align="center"><i>Know who you are, find yourself!</i></p>
 
 <p align="center"><img src="assets/banner-ming-yang2.svg" alt="Ming Yang" width="100%"></p>
+
+I'm interested in AI agents, agent operations, and I like to help others. I'm focusing on my own startup, Guli.
+
 
 
 I love publishing repos. Most of what I post is something I like and think might help someone else, so I put it out there. I stay very active, and I push an update roughly every 3 days.
