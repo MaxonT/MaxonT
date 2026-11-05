@@ -23,6 +23,19 @@
 
 I'm interested in AI agents, agent operations, and I like to help others. I'm focusing on my own startup, Guli.
 
+<table>
+<tr>
+<td width="210" valign="top"><img src="assets/childhood.webp" width="210" alt="Me as a kid, wiping a table"><br><sub>Before any of this had a name.</sub></td>
+<td valign="middle">
+<p>As a first-gen with an idealist's temperament and a realist's budget, there was no trajectory to inherit. Only contingencies, expectations, and an almost pathological appetite for becoming.</p>
+<p>For years fear was the reward model and approval the proxy objective. A recursion without a base case is not ambition. It is a pathology.</p>
+<p>So the policy is changing: from fear to curiosity, from performance to compounding competence, from borrowed purposes to self-authorship. Software, autonomous systems and Guli are experiments in sovereignty, so that thinking, choosing and creating never need permission.</p>
+<p>No benevolent universe is promised, and no immunity from suffering. The choice gets made anyway.</p>
+<p>Let the world update my beliefs. It will never receive root access to my will.</p>
+</td>
+</tr>
+</table>
+
 I love publishing repos. Most of what I post is something I like and think might help someone else, so I put it out there. I stay very active, and I push an update roughly every 3 days.
 
 If anything here is useful to you, please leave a ⭐ on the repo and [follow me](https://github.com/MaxonT?tab=followers). It really keeps me going.
