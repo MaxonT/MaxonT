@@ -23,20 +23,22 @@
 
 I'm interested in AI agents, agent operations, and I like to help others. I'm focusing on my own startup, Guli.
 
-<table>
-<tr>
-<td width="210" valign="top"><img src="assets/childhood.webp" width="210" alt="Me as a kid, wiping a table"><br><sub>Before any of this had a name.</sub></td>
-<td valign="middle">
+<p align="center">
+  <img src="assets/childhood.webp" width="260" alt="Me as a kid">
+</p>
+<p align="center"><sub><i>Before any of this had a name.</i></sub></p>
+
+<blockquote>
 <p>First-gen by circumstance, idealist by temperament, realist by budget. No inherited playbook, just intergenerational priors, an unfortunate amount of existential debt, and a pathological appetite for becoming.</p>
 <p>For a while, fear handled the reward modeling and social approval supplied the loss function. A quite elegant optimization scheme, until the optimizer started consuming its own operator.</p>
 <p>The subsequent policy recalibration involved replacing heteronomous teleologies with epistemic sovereignty, reallocating probability mass from performative survival to curiosity-driven agency, and treating software, autonomous systems, and worldmaking as instruments of existential self-authorship.</p>
 <p>No ergodic guarantees. No benevolent universe. Still, one human attempting to bootstrap meaning out of contingency, one absurdly ambitious side quest at a time.</p>
 <p>Let the Absolute Idea unravel, its light cascading over the ruins of inherited teleologies, baptizing the unfinished self in the unbearable lucidity of becoming.</p>
 <p>Let reality update the posterior. Never let it rewrite the objective function.</p>
-<p>Know who you are, find yourself!</p>
-</td>
-</tr>
-</table>
+</blockquote>
+
+<p align="center"><i>Know who you are, find yourself!</i></p>
+
 
 I love publishing repos. Most of what I post is something I like and think might help someone else, so I put it out there. I stay very active, and I push an update roughly every 3 days.
 
