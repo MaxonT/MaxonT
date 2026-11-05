@@ -1,16 +1,3 @@
-<p align="center"><img src="assets/banner-ming-yang2.svg" alt="Ming Yang" width="100%"></p>
-
-<div align="center">
-
-[English](README.md) · **简体中文**
-
-![Focus](https://img.shields.io/badge/%E6%96%B9%E5%90%91-AI%20%E5%B7%A5%E5%85%B7-7C3AED?style=for-the-badge)
-![Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%9C%A8%E5%BB%BA%E9%80%A0%E4%B8%AD-22C55E?style=for-the-badge)
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-</div>
-
 ## 🏹 关于这个主页
 
 我对 AI agent 和 agent 运营感兴趣，也喜欢帮助别人。我现在专注于自己的创业项目 Guli。
@@ -35,6 +22,19 @@
 我喜欢发布 repo。发出来的大多是我自己喜欢、也觉得可能对别人有帮助的东西。我一直很积极,大约每 3 天更新一次。
 
 如果这里的东西对你有用,请给仓库点个 ⭐,也欢迎 [关注我](https://github.com/MaxonT?tab=followers),这对我是很大的鼓励。
+
+<p align="center"><img src="assets/banner-ming-yang2.svg" alt="Ming Yang" width="100%"></p>
+
+<div align="center">
+
+[English](README.md) · **简体中文**
+
+![Focus](https://img.shields.io/badge/%E6%96%B9%E5%90%91-AI%20%E5%B7%A5%E5%85%B7-7C3AED?style=for-the-badge)
+![Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%9C%A8%E5%BB%BA%E9%80%A0%E4%B8%AD-22C55E?style=for-the-badge)
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+</div>
 
 ## 🧰 技术栈
 
