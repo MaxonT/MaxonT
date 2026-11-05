@@ -25,11 +25,13 @@ I'm interested in AI agents, agent operations, and I like to help others. I'm fo
 
 <table>
 <tr>
-<td width="210" valign="top"><img src="assets/childhood.webp" width="210" alt="Me as a kid, wiping a table"><br><sub>Me, a long time ago, wiping the table. Some things you just pick up and do yourself.</sub></td>
+<td width="210" valign="top"><img src="assets/childhood.webp" width="210" alt="Me as a kid, wiping a table"><br><sub>Before any of this had a name.</sub></td>
 <td valign="middle">
-<p>The table is clean now. It was not clean a minute ago, and nobody can say who wiped it.<br>The boy in the photo is still wiping, or maybe he finished years ago and the table is what keeps moving.</p>
-<p>Some days I am the one standing at it. Some days it is the agents, reporting done. The question stays quiet and does not explain itself: is it really done?<br>I keep asking. I am not sure I like the answer yet.</p>
-<p>Guli is still running though.</p>
+<p>I am a first-generation student with an idealist's temperament and a realist's budget. I did not inherit a trajectory. I inherited contingencies, expectations, and an almost pathological appetite for becoming.</p>
+<p>For years fear was my reward model and approval my proxy objective. A recursion without a base case is not ambition. It is a pathology.</p>
+<p>So I am changing the policy: from fear to curiosity, from performance to compounding competence, from borrowed purposes to self-authorship. I build software, autonomous systems and Guli as experiments in sovereignty, so that thinking, choosing and creating never need permission.</p>
+<p>I expect no benevolent universe and no immunity from suffering. I choose anyway.</p>
+<p>Let the world update my beliefs. It will never receive root access to my will.</p>
 </td>
 </tr>
 </table>
