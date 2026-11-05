@@ -27,10 +27,10 @@ I'm interested in AI agents, agent operations, and I like to help others. I'm fo
 <tr>
 <td width="210" valign="top"><img src="assets/childhood.webp" width="210" alt="Me as a kid, wiping a table"><br><sub>Me, a long time ago, wiping the table. Some things you just pick up and do yourself.</sub></td>
 <td valign="middle">
-<p>I never wanted to be an employee.<br>Not out of pride. I just want my days to be mine.</p>
-<p>So I build, one small step at a time. Agents, tools, a startup of my own. What I learn goes out in the open, and I like to help where I can, because that is the part I enjoy most.</p>
-<p>If I had one piece of advice about finding your own way, it would be this: stay independent. Borrow ideas freely, listen closely, then make the call yourself. You are the one who has to live with it.</p>
-<p>Walk long enough and the path shows up under your feet.</p>
+<p>I turned one stubborn question into a way of living: how do you know it's really done?<br>I started by asking it of agents. Then I asked it of myself, and found I had been grading against somebody else's rubric.</p>
+<p>So I wrote my own. I build, I publish, I check the work, and I let the check decide, not the applause. That is how a student ended up building Guli.</p>
+<p>If I had one piece of advice about finding your own road, it would be this: own your definition of done. Borrow ideas, borrow tools, borrow shoulders to stand on, but never borrow the finish line. Whoever draws it is the one you work for, whatever your title says.</p>
+<p>One checked step at a time, the road becomes yours.</p>
 </td>
 </tr>
 </table>
