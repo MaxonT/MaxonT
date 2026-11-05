@@ -18,12 +18,13 @@
 
 <p align="center"><i>认识你自己，找到你自己！</i></p>
 
+<p align="center"><img src="assets/banner-ming-yang2.svg" alt="Ming Yang" width="100%"></p>
+
 
 我喜欢发布 repo。发出来的大多是我自己喜欢、也觉得可能对别人有帮助的东西。我一直很积极,大约每 3 天更新一次。
 
 如果这里的东西对你有用,请给仓库点个 ⭐,也欢迎 [关注我](https://github.com/MaxonT?tab=followers),这对我是很大的鼓励。
 
-<p align="center"><img src="assets/banner-ming-yang2.svg" alt="Ming Yang" width="100%"></p>
 
 <div align="center">
 

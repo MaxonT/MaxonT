@@ -18,6 +18,8 @@ I'm interested in AI agents, agent operations, and I like to help others. I'm fo
 
 <p align="center"><i>Know who you are, find yourself!</i></p>
 
+<p align="center"><img src="assets/banner-ming-yang2.svg" alt="Ming Yang" width="100%"></p>
+
 
 I love publishing repos. Most of what I post is something I like and think might help someone else, so I put it out there. I stay very active, and I push an update roughly every 3 days.
 
@@ -25,7 +27,6 @@ If anything here is useful to you, please leave a ⭐ on the repo and [follow me
 
 <a id="stack"></a>
 
-<p align="center"><img src="assets/banner-ming-yang2.svg" alt="Ming Yang" width="100%"></p>
 
 <div align="center">
 
