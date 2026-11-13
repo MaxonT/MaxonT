@@ -152,3 +152,18 @@ One click on any of these makes my day:
 <p align="center"><img src="assets/footer.svg" width="100%" alt=""></p>
 
 <p align="center"><sub>⭐ If something here helped you, a star means a lot. This repo was previously named <b>MaxonT</b>.</sub></p>
+
+## 🎮 Off duty
+
+![Horror](https://img.shields.io/badge/Horror%20pick-FNAF-f59e0b?style=for-the-badge)
+![Night](https://img.shields.io/badge/Night%205-survived-22c55e?style=for-the-badge)
+
+<sub><i>3 AM and the hallway hums. A door that was shut a minute ago is open now, light leaking out like it has somewhere to be. Someone is standing in it, or maybe I am the one standing and the corridor is what moves. Nothing in the footage explains itself. Neither do I. The build is still green though.</i></sub>
+
+<p align="center"><img src="assets/corridor-sketch.svg" width="100%" alt="A figure standing in a lit doorway at the end of a dark corridor"></p>
+
+And because debugging at 3 AM feels exactly like surviving a night shift, here is a night shift scene I drew:
+
+<p align="center"><img src="assets/fnaf-sketch.svg" width="100%" alt="A dim night security office"></p>
+
+<p align="center"><img src="assets/workflow-sketch.svg" width="100%" alt="Decompose, system design, build with AI, evaluate, ship and learn"></p>
