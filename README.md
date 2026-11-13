@@ -12,7 +12,7 @@
 <p align="center"><i>Let the Absolute Idea unravel, its light cascading over the ruins of inherited teleologies, baptizing the unfinished self in the unbearable lucidity of becoming.</i></p>
 <p align="center"><i>Let reality update the posterior. Never let it rewrite the objective function.</i></p>
 
-<p align="center"><i>Know who you are, find yourself!</i></p>
+<p align="center"><i>Find yourself</i></p>
 
 <p align="center"><img src="assets/banner-ming-yang2.svg" alt="Ming Yang" width="100%"></p>
 
