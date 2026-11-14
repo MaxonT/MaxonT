@@ -84,7 +84,7 @@ If anything here is useful to you, please leave a ⭐ on the repo and [follow me
 <p align="center"><a href="https://github.com/MaxonT/TRACES.md"><img src="https://img.shields.io/github/stars/MaxonT/TRACES.md?style=social" alt="TRACES.md stars"></a> · <a href="https://github.com/MaxonT/TRACES.md"><b>Open TRACES.md →</b></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/MaxonT/aisync"><img src="assets/lab-aisync.svg" width="100%" alt="aisync: one standup for all your AI coding tools"></a>
+<a href="https://github.com/MaxonT/aisync"><img src="assets/lab-aisync.svg" width="100%" alt="aisync: Multi-Agent Context Management, Coordination & Observability"></a>
 <p align="center"><a href="https://github.com/MaxonT/aisync"><img src="https://img.shields.io/github/stars/MaxonT/aisync?style=social" alt="aisync stars"></a> · <a href="https://github.com/MaxonT/aisync"><b>Open aisync →</b></a></p>
 </td>
 </tr>
