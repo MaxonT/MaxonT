@@ -152,3 +152,4 @@ One click on any of these makes my day:
 <p align="center"><img src="assets/footer.svg" width="100%" alt=""></p>
 
 <p align="center"><sub>⭐ If something here helped you, a star means a lot. This repo was previously named <b>MaxonT</b>.</sub></p>
+[![Boot.dev AI Coding with OpenCode certificate](https://api.boot.dev/v1/static/certificate/aeed8820-8b0d-4dc4-9f6a-f7333d644832)](https://www.boot.dev/certificates/aeed8820-8b0d-4dc4-9f6a-f7333d644832)
