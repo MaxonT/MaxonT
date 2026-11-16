@@ -91,7 +91,7 @@
 <!-- LATEST:START -->
 | 项目 | ⭐ | 更新 | 做什么 |
 |:--|:-:|:-:|:--|
-| [**homebrew-tap**](https://github.com/MaxonT/homebrew-tap) | ![](https://img.shields.io/github/stars/MaxonT/homebrew-tap?style=flat-square&label=&color=F5C518) | 2026-11-15 | Homebrew tap for aisync (brew tap MaxonT/tap) |
+| [**homebrew-tap**](https://github.com/MaxonT/homebrew-tap) | ![](https://img.shields.io/github/stars/MaxonT/homebrew-tap?style=flat-square&label=&color=F5C518) | 2026-11-16 | Homebrew tap for aisync (brew tap MaxonT/tap) |
 | [**top-deepseek-harness-plugins**](https://github.com/MaxonT/top-deepseek-harness-plugins) | ![](https://img.shields.io/github/stars/MaxonT/top-deepseek-harness-plugins?style=flat-square&label=&color=F5C518) | 2026-11-11 | Open-source plugins and companion apps for DeepSeek Harness (dsh): security and permission guards... |
 | [**top-open-weight-coding-models**](https://github.com/MaxonT/top-open-weight-coding-models) | ![](https://img.shields.io/github/stars/MaxonT/top-open-weight-coding-models?style=flat-square&label=&color=F5C518) | 2026-11-11 | Open-weight coding and agent models (Qwen Coder, DeepSeek, GLM, Kimi, Devstral, StarCoder) plus t... |
 | [**top-flying-car-open-source**](https://github.com/MaxonT/top-flying-car-open-source) | ![](https://img.shields.io/github/stars/MaxonT/top-flying-car-open-source?style=flat-square&label=&color=F5C518) | 2026-11-11 | Open-source tools for flying cars, eVTOL and drones: flight controllers (PX4, ArduPilot, Betaflig... |
