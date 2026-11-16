@@ -91,13 +91,13 @@
 <!-- LATEST:START -->
 | 项目 | ⭐ | 更新 | 做什么 |
 |:--|:-:|:-:|:--|
+| [**homebrew-tap**](https://github.com/MaxonT/homebrew-tap) | ![](https://img.shields.io/github/stars/MaxonT/homebrew-tap?style=flat-square&label=&color=F5C518) | 2026-11-16 | Homebrew tap for aisync (brew tap MaxonT/tap) |
 | [**top-deepseek-harness-plugins**](https://github.com/MaxonT/top-deepseek-harness-plugins) | ![](https://img.shields.io/github/stars/MaxonT/top-deepseek-harness-plugins?style=flat-square&label=&color=F5C518) | 2026-11-16 | Open-source plugins and companion apps for DeepSeek Harness (dsh): security and permission guards... |
 | [**top-open-weight-coding-models**](https://github.com/MaxonT/top-open-weight-coding-models) | ![](https://img.shields.io/github/stars/MaxonT/top-open-weight-coding-models?style=flat-square&label=&color=F5C518) | 2026-11-16 | Open-weight coding and agent models (Qwen Coder, DeepSeek, GLM, Kimi, Devstral, StarCoder) plus t... |
 | [**top-flying-car-open-source**](https://github.com/MaxonT/top-flying-car-open-source) | ![](https://img.shields.io/github/stars/MaxonT/top-flying-car-open-source?style=flat-square&label=&color=F5C518) | 2026-11-16 | Open-source tools for flying cars, eVTOL and drones: flight controllers (PX4, ArduPilot, Betaflig... |
 | [**top-ai-agent-guardrails**](https://github.com/MaxonT/top-ai-agent-guardrails) | ![](https://img.shields.io/github/stars/MaxonT/top-ai-agent-guardrails?style=flat-square&label=&color=F5C518) | 2026-11-16 | Guardrails for AI agents: sandboxes, human-in-the-loop approval, cost and budget limits, prompt-i... |
 | [**top-chinese-rainbow-fart**](https://github.com/MaxonT/top-chinese-rainbow-fart) | ![](https://img.shields.io/github/stars/MaxonT/top-chinese-rainbow-fart?style=flat-square&label=&color=F5C518) | 2026-11-16 | Chinese internet compliment generators, rainbow-fart plugins, meme makers and joke corpora, ranke... |
 | [**top-summer-2027-internships**](https://github.com/MaxonT/top-summer-2027-internships) | ![](https://img.shields.io/github/stars/MaxonT/top-summer-2027-internships?style=flat-square&label=&color=F5C518) | 2026-11-16 | 2027 internship and new-grad job lists, ranked by GitHub stars |
-| [**top-free-javascript-courses**](https://github.com/MaxonT/top-free-javascript-courses) | ![](https://img.shields.io/github/stars/MaxonT/top-free-javascript-courses?style=flat-square&label=&color=F5C518) | 2026-11-16 | Every free way to learn JavaScript, ranked by GitHub stars |
 <!-- LATEST:END -->
 
 ## ⭐ 留个 star？
