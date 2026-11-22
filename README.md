@@ -5,12 +5,12 @@
 </p>
 <p align="center"><sub><i>Before any of this had a name.</i></sub></p>
 
-<p align="center"><i>First-gen by circumstance, idealist by temperament, realist by budget. No inherited playbook, just intergenerational priors, an unfortunate amount of existential debt, and a pathological appetite for becoming.</i></p>
+<p align="center"><i>First-gen by circumstance, idealist by birth, realist by limit. No inherited playbook, just intergenerational priors, an unfortunate amount of existential debt, and a pathological appetite for becoming.</i></p>
 <p align="center"><i>For a while, fear handled the reward modeling and social approval supplied the loss function. A quite elegant optimization scheme, until the optimizer started consuming its own operator.</i></p>
-<p align="center"><i>The subsequent policy recalibration involved replacing heteronomous teleologies with epistemic sovereignty, reallocating probability mass from performative survival to curiosity-driven agency, and treating software, autonomous systems, and worldmaking as instruments of existential self-authorship.</i></p>
+<p align="center"><i>The subsequent policy recalibration involved replacing heteronomous teleologies with epistemic sovereignty, reallocating probability mass from performative survival to agency, and treating code-as-truth, autonomous systems, and worldmaking as instruments of existential self-authorship.</i></p>
 <p align="center"><i>No ergodic guarantees. No benevolent universe. Still, one human attempting to bootstrap meaning out of contingency, one absurdly ambitious side quest at a time.</i></p>
-<p align="center"><i>Let the Absolute Idea unravel, its light cascading over the ruins of inherited teleologies, baptizing the unfinished self in the unbearable lucidity of becoming.</i></p>
-<p align="center"><i>Let reality update the posterior. Never let it rewrite the objective function.</i></p>
+<p align="center"><i>The Absolute Idea unravel, its light cascading over the ruins of inherited teleologies, baptizing the unfinished self in the unbearable lucidity of becoming.</i></p>
+<p align="center"><i>Reality update the posterior. Never let it rewrite the objective function.</i></p>
 
 <p align="center"><i>Find yourself</i></p>
 
