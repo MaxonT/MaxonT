@@ -42,6 +42,11 @@ If anything here is useful to you, please leave a ⭐ on the repo and [follow me
 [![Star](https://img.shields.io/badge/Star-my%20repos-F5C518?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MaxonT?tab=repositories)
 [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-README-F59E0B?style=for-the-badge)](README.zh-CN.md)
 
+[![FLISK HALL OF FAME @MaxonT • 1 merged PR](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40MaxonT%20%E2%80%A2%201%20merged%20PR-06b6d4?style=for-the-badge&labelColor=07080f)](https://badges.flisk.si/maxont-173550318/)
+[![Founding Contributor claim guide](https://img.shields.io/badge/FOUNDING%20CONTRIBUTOR-claim%20guide-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/3730)
+
+<sub>Flisk: [PR #4973 merged](https://github.com/flisk-sh/flisk/pull/4973). Hall of Fame is confirmed; Founding Contributor requires a separate claim.</sub>
+
 <img src="assets/divider.svg" width="100%" alt="">
 
 </div>
