@@ -16,11 +16,9 @@
 
 <p align="center"><img src="assets/banner-ming-yang2.svg" alt="Ming Yang" width="100%"></p>
 
-I'm interested in AI agents, agent operations, and I like to help others. I'm focusing on my own startup, Guli.
+I'm an AI Engineer and Founder at Guli, working on AI agents and automation.
 
-
-
-I love publishing repos. Most of what I post is something I like and think might help someone else, so I put it out there. I stay very active, and I push an update roughly every 3 days.
+I love contributing to open source and actively helping the developer community through pull requests, code reviews, and collaboration. I'm also focused on building my own startup, Guli.
 
 If anything here is useful to you, please leave a ⭐ on the repo and [follow me](https://github.com/MaxonT?tab=followers). It really keeps me going.
 
@@ -29,7 +27,7 @@ If anything here is useful to you, please leave a ⭐ on the repo and [follow me
 
 <div align="center">
 
-<a href="https://github.com/MaxonT/MyProfile"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=Ming+Yang;Into+AI+agents+and+agent+operations;Focusing+on+my+startup%2C+Guli;I+love+publishing+repos;I+share+what+I+like+and+think+might+help;Always+building%2C+very+active;A+new+update+every+3+days;Night+5+survived+again;Stars+and+follows+make+my+day" alt="Typing intro"></a>
+<a href="https://github.com/MaxonT/MyProfile"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=Ming+Yang;AI+Engineer+and+Founder+at+Guli;Building+AI+agents+and+automation;I+love+contributing+to+open+source;Pull+requests+and+code+reviews;Helping+the+developer+community;Building+my+startup%2C+Guli" alt="Typing intro"></a>
 
 ![Focus](https://img.shields.io/badge/Focus-AI%20Tools-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Building-22C55E?style=for-the-badge)
@@ -144,7 +142,7 @@ Refreshed automatically every hour, star counts are live.
 
 <div align="center">
 
-Every star tells me someone found it useful, and that is what keeps me shipping every 3 days.<br>
+Every star tells me someone found my work useful.<br>
 One click on any of these makes my day:
 
 [![Star TRACES.md](https://img.shields.io/badge/⭐%20Star-TRACES.md-3FB950?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxonT/TRACES.md)
