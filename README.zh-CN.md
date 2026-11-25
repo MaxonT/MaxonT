@@ -91,8 +91,6 @@
 <!-- LATEST:START -->
 | 项目 | ⭐ | 更新 | 做什么 |
 |:--|:-:|:-:|:--|
-| [**top-quant-open-source**](https://github.com/MaxonT/top-quant-open-source) | ![](https://img.shields.io/github/stars/MaxonT/top-quant-open-source?style=flat-square&label=&color=F5C518) | 2026-11-23 | Open-source quant trading tools: backtesting engines, live trading frameworks, factor research, m... |
-| [**top-deepseek-harness-plugins**](https://github.com/MaxonT/top-deepseek-harness-plugins) | ![](https://img.shields.io/github/stars/MaxonT/top-deepseek-harness-plugins?style=flat-square&label=&color=F5C518) | 2026-11-23 | Open-source plugins and companion apps for DeepSeek Harness (dsh): security and permission guards... |
 <!-- LATEST:END -->
 
 ## ⭐ 留个 star？
